@@ -1,0 +1,942 @@
+Drug–drug–gene interactions and adverse drug reactions
+Mustafa Adnan Malki & Ewan Robert Pearson 
+The Pharmacogenomics Journal volume 20, pages355–366 (2020)Cite this article
+
+21k Accesses
+
+88 Citations
+
+19 Altmetric
+
+Metricsdetails
+
+Abstract
+The economic and health burden caused by adverse drug reactions has increased dramatically in the last few years. This is likely to be mediated by increasing polypharmacy, which increases the likelihood for drug–drug interactions. Tools utilized by healthcare practitioners to flag potential adverse drug reactions secondary to drug–drug interactions ignore individual genetic variation, which has the potential to markedly alter the severity of these interactions. To date there have been limited published studies on impact of genetic variation on drug–drug interactions. In this review, we establish a detailed classification for pharmacokinetic drug–drug–gene interactions, and give examples from the literature that support this approach. The increasing availability of real-world drug outcome data linked to genetic bioresources is likely to enable the discovery of previously unrecognized, clinically important drug–drug–gene interactions.
+Mirtazapine loaded polymeric micelles for rapid release tablet: A novel formulation—In vitro and in vivo studies
+Original Article
+Open access
+Published: 14 February 2024
+Volume 14, pages 2488–2498, (2024)
+Cite this article
+Download PDF
+You have full access to this
+open access
+article
+
+Abstract
+Major depression is a prevalent disorder characterized by sadness, lack of interest or pleasure, interrupted sleep or food, and impaired concentration. Mirtazapine (MTZ), a tetracyclic antidepressant drug, is commonly used to treat moderate to severe depression. MTZ is classified as a BCS class II drug that has shown bioavailability of 50% due to extensive first-pass metabolism. The aim of this research is to develop a delivery platform with enhanced solubility and oral bioavailability of MTZ through formulating polymeric micelles modeled in a rapid release tablet. Mirtazapine loaded polymeric micelles (MTZ-PMs) were formulated to enhance the solubility. Solutol® HS 15 and Brij 58 were used as combined surfactants in a ratio of (20:1) to MTZ in addition to Transcutol® P as a penetration enhancer. The following in vitro tests were performed: particle size, PDI, zeta potential, solubility factor, stability index, and transmission electron microscopes. Afterward, MTZ-PMs were converted to dry free flowable powder through loading on the adsorptive surface of Aerosil 200; then, the powder mixture was directly compressed (MTZ-PMs-RRT) into 13 mm tablets. MTZ-PMs-RRT was further investigated using in vitro evaluation tests of the tablets, namely, weight variation, thickness, diameter, hardness, friability, disintegration time, drug content, and in vitro dissolution test, which complied with the pharmacopeial limits. The pharmacokinetic parameters of MTZ-PMs-RRT compared to Remeron® tablet were further investigated in rabbits. The results showed enhanced solubility of MTZ with improved percentage relative bioavailability to 153%. The formulation of MTZ in the form of MTZ-PMs-RRT successfully improved the solubility, stability, and bioavailability of MTZ using a simple and scalable manufacturing process.
+
+
+
+Pharmacogenomics: The Right Drug to the Right Person
+Aneesh T P,a,b Sonal Sekhar M,a Asha Jose,a Lekshmi Chandran,a and Subin Mary Zachariaha
+Author information Article notes Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+Pharmacogenomics is the branch of pharmacology which deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity. It aims to develop rational means to optimize drug therapy, with respect to the patients genotype, to ensure maximum efficacy with minimal adverse effects. Such approaches promise the advent of personalized medicine, in which drugs and drug combinations are optimized for each individual's unique genetic makeup. Pharmacogenomics is the whole genome application of pharmacogenetics, which examines the single gene interactions with drugs.
+
+
+
+Mirtazapine loaded polymeric micelles for rapid release tablet: A novel formulation—In vitro and in vivo studies
+Sara Nageeb El-Helaly 1, Amira A Rashad 2
+Author information
+Article notes
+Copyright and License information
+PMCID: PMC11291528  PMID: 38353837
+Abstract
+Major depression is a prevalent disorder characterized by sadness, lack of interest or pleasure, interrupted sleep or food, and impaired concentration. Mirtazapine (MTZ), a tetracyclic antidepressant drug, is commonly used to treat moderate to severe depression. MTZ is classified as a BCS class II drug that has shown bioavailability of 50% due to extensive first-pass metabolism. The aim of this research is to develop a delivery platform with enhanced solubility and oral bioavailability of MTZ through formulating polymeric micelles modeled in a rapid release tablet. Mirtazapine loaded polymeric micelles (MTZ-PMs) were formulated to enhance the solubility. Solutol® HS 15 and Brij 58 were used as combined surfactants in a ratio of (20:1) to MTZ in addition to Transcutol® P as a penetration enhancer. The following in vitro tests were performed: particle size, PDI, zeta potential, solubility factor, stability index, and transmission electron microscopes. Afterward, MTZ-PMs were converted to dry free flowable powder through loading on the adsorptive surface of Aerosil 200; then, the powder mixture was directly compressed (MTZ-PMs-RRT) into 13 mm tablets. MTZ-PMs-RRT was further investigated using in vitro evaluation tests of the tablets, namely, weight variation, thickness, diameter, hardness, friability, disintegration time, drug content, and in vitro dissolution test, which complied with the pharmacopeial limits. The pharmacokinetic parameters of MTZ-PMs-RRT compared to Remeron® tablet were further investigated in rabbits. The results showed enhanced solubility of MTZ with improved percentage relative bioavailability to 153%. The formulation of MTZ in the form of MTZ-PMs-RRT successfully improved the solubility, stability, and bioavailability of MTZ using a simple and scalable manufacturing process.
+
+
+Drug–Gene Interactions: Inherent Variability In Drug Maintenance Dose Requirements
+Paul Westervelt, Kihoon Cho, David R. Bright, PharmD, and David F. Kisor, PharmD
+Author information Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+The influence of genetics on pharmacokinetics can introduce variability among individual patients that may cause treatment failure, toxicity, or both. Such variability, specifically in clearance rates, can influence drug maintenance dosing regimens.
+
+Integrating gene expression and clinical data to identify drug repurposing candidates for hyperlipidemia and hypertension
+Patrick Wu, QiPing Feng, Vern Eric Kerchberger, Scott D. Nelson, Qingxia Chen, Bingshan Li, Todd L. Edwards, Nancy J. Cox, Elizabeth J. Phillips, C. Michael Stein, Dan M. Roden, Joshua C. Denny & Wei-Qi Wei 
+Nature Communications volume 13, Article number: 46 (2022) Cite this article
+
+12k Accesses
+
+20 Citations
+
+22 Altmetric
+
+Metricsdetails
+
+Abstract
+Discovering novel uses for existing drugs, through drug repurposing, can reduce the time, costs, and risk of failure associated with new drug development. However, prioritizing drug repurposing candidates for downstream studies remains challenging. Here, we present a high-throughput approach to identify and validate drug repurposing candidates. This approach integrates human gene expression, drug perturbation, and clinical data from publicly available resources. We apply this approach to find drug repurposing candidates for two diseases, hyperlipidemia and hypertension. We screen >21,000 compounds and replicate ten approved drugs. We also identify 25 (seven for hyperlipidemia, eighteen for hypertension) drugs approved for other indications with therapeutic effects on clinically relevant biomarkers. For five of these drugs, the therapeutic effects are replicated in the All of Us Research Program database. We anticipate our approach will enable researchers to integrate multiple publicly available datasets to identify high priority drug repurposing opportunities for human diseases.
+
+
+Drug-drug-gene interactions and adverse drug reactions
+Mustafa Adnan Malki, Ewan Robert Pearson (Lead / Corresponding author)
+
+Population Health and Genomics
+Research output: Contribution to journal › Review article › peer-review
+
+96
+Citations
+(Scopus)
+83
+Downloads
+(Pure)
+Article has an altmetric score of 19
+  
+Abstract
+The economic and health burden caused by adverse drug reactions has increased dramatically in the last few years. This is likely to be mediated by increasing polypharmacy, which increases the likelihood for drug-drug interactions. Tools utilized by healthcare practitioners to flag potential adverse drug reactions secondary to drug-drug interactions ignore individual genetic variation, which has the potential to markedly alter the severity of these interactions. To date there have been limited published studies on impact of genetic variation on drug-drug interactions. In this review, we establish a detailed classification for pharmacokinetic drug-drug-gene interactions, and give examples from the literature that support this approach. The increasing availability of real-world drug outcome data linked to genetic bioresources is likely to enable the discovery of previously unrecognized, clinically important drug-drug-gene interactions.
+
+Pharmacogenomic Biomarkers for Improved Drug Therapy—Recent Progress and Future Developments
+Review Article
+Theme: Precision Medicine: Implications for the Pharmaceutical Sciences
+Open access
+Published: 27 November 2017
+Volume 20, article number 4, (2018)
+Cite this article
+
+
+The AAPS Journal
+Aims and scope
+Submit manuscript
+Volker M. Lauschke, Lili Milani & Magnus Ingelman-Sundberg 
+17k Accesses
+
+100 Citations
+
+5 Altmetric
+
+Explore all metrics 
+
+Abstract
+Much of the inter-individual variability in drug efficacy and risk of adverse reactions is due to polymorphisms in genes encoding proteins involved in drug pharmacokinetics and pharmacodynamics or immunological responses. Pharmacogenetic research has identified a multitude of gene-drug response associations, which have resulted in genetically guided treatment and dosing decisions to yield a higher success rate of pharmacological treatment. The rapid technological developments for genetic analyses reveal that the number of genetic variants with importance for drug action is much higher than previously thought and that a true personalized prediction of drug response requires attention to millions of rare mutations. Here, we review the evolutionary background of genetic polymorphisms in drug-metabolizing enzymes, provide some important examples of current use of pharmacogenomic biomarkers, and give an update of germline and somatic genome biomarkers that are in use in drug development and clinical practice. We also discuss the current technology development with emphasis on complex genetic loci, review current initiatives for validation of pharmacogenomic biomarkers, and present scenarios for the future taking rare genetic variants into account for a true personalized genetically guided drug prescription. We conclude that pharmacogenomic information for patient stratification is of value to tailor optimized treatment regimens particularly in oncology. However, the routine use of pharmacogenomic biomarkers in clinical practice in other therapeutic areas is currently sparse and the prospects of its future implementation are being scrutinized by different international consortia
+
+Tissue-specific genetic features inform prediction of drug side effects in clinical trials
+
+Abstract
+Adverse side effects often account for the failure of drug clinical trials. We evaluated whether a phenome-wide association study (PheWAS) of 1167 phenotypes in >360,000 U.K. Biobank individuals, in combination with gene expression and expression quantitative trait loci (eQTL) in 48 tissues, can inform prediction of drug side effects in clinical trials. We determined that drug target genes with five genetic features—tissue specificity of gene expression, Mendelian associations, phenotype- and tissue-level effects of genome-wide association (GWA) loci driven by eQTL, and genetic constraint—confer a 2.6-fold greater risk of side effects, compared to genes without such features. The presence of eQTL in multiple tissues resulted in more unique phenotypes driven by GWA loci, suggesting that drugs delivered to multiple tissues can induce several side effects. We demonstrate the utility of PheWAS and eQTL data from multiple tissues for informing drug side effect prediction and highlight the need for tissue-specific drug delivery.
+
+Evaluating drug targets through human loss-of-function genetic variation
+
+Abstract
+Naturally occurring human genetic variants that are predicted to inactivate protein-coding genes provide an in vivo model of human gene inactivation that complements knockout studies in cells and model organisms. Here we report three key findings regarding the assessment of candidate drug targets using human loss-of-function variants. First, even essential genes, in which loss-of-function variants are not tolerated, can be highly successful as targets of inhibitory drugs. Second, in most genes, loss-of-function variants are sufficiently rare that genotype-based ascertainment of homozygous or compound heterozygous ‘knockout’ humans will await sample sizes that are approximately 1,000 times those presently available, unless recruitment focuses on consanguineous individuals. Third, automated variant annotation and filtering are powerful, but manual curation remains crucial for removing artefacts, and is a prerequisite for recall-by-genotype efforts. Our results provide a roadmap for human knockout studies and should guide the interpretation of loss-of-function variants in drug development.
+
+DGIdb 3.0: a redesign and expansion of the drug–gene interaction database 
+   
+Abstract
+The drug–gene interaction database (DGIdb, www.dgidb.org) consolidates, organizes and presents drug–gene interactions and gene druggability information from papers, databases and web resources. DGIdb normalizes content from 30 disparate sources and allows for user-friendly advanced browsing, searching and filtering for ease of access through an intuitive web user interface, application programming interface (API) and public cloud-based server image. DGIdb v3.0 represents a major update of the database. Nine of the previously included 24 sources were updated. Six new resources were added, bringing the total number of sources to 30. These updates and additions of sources have cumulatively resulted in 56 309 interaction claims. This has also substantially expanded the comprehensive catalogue of druggable genes and anti-neoplastic drug–gene interactions included in the DGIdb. Along with these content updates, v3.0 has received a major overhaul of its codebase, including an updated user interface, preset interaction search filters, consolidation of interaction information into interaction groups, greatly improved search response times and upgrading the underlying web application framework. In addition, the expanded API features new endpoints which allow users to extract more detailed information about queried drugs, genes and drug–gene interactions, including listings of PubMed IDs, interaction type and other interaction metadata.
+
+
+DGIdb 3.0: a redesign and expansion of the drug–gene interaction database 
+
+Abstract
+The drug–gene interaction database (DGIdb, www.dgidb.org) consolidates, organizes and presents drug–gene interactions and gene druggability information from papers, databases and web resources. DGIdb normalizes content from 30 disparate sources and allows for user-friendly advanced browsing, searching and filtering for ease of access through an intuitive web user interface, application programming interface (API) and public cloud-based server image. DGIdb v3.0 represents a major update of the database. Nine of the previously included 24 sources were updated. Six new resources were added, bringing the total number of sources to 30. These updates and additions of sources have cumulatively resulted in 56 309 interaction claims. This has also substantially expanded the comprehensive catalogue of druggable genes and anti-neoplastic drug–gene interactions included in the DGIdb. Along with these content updates, v3.0 has received a major overhaul of its codebase, including an updated user interface, preset interaction search filters, consolidation of interaction information into interaction groups, greatly improved search response times and upgrading the underlying web application framework. In addition, the expanded API features new endpoints which allow users to extract more detailed information about queried drugs, genes and drug–gene interactions, including listings of PubMed IDs, interaction type and other interaction metadata.
+
+
+Pharmacogenomics: Prescribing based on genetic variation
+
+Abstract
+Clinical decision support systems relating to prescribing are available on general practice information technology systems, with warnings relating to drug–drug interactions and allergies. These tools can help us anticipate and avoid known side effects of drugs, but only after we have selected the drug. Combining these with renal function, liver function, other biophysical markers and pharmacogenomics information, can improve medicines optimisation and reduce adverse effects. Managing all these variables at the same time as conforming to disease guidelines is a challenge. The challenge is even greater when managing multi-morbidity and the associated polypharmacy.
+
+
+Abstract
+Lymphoblastoid cell lines (LCLs), originally collected as renewable sources of DNA, are now being used as a model system to study genotype–phenotype relationships in human cells, including searches for QTLs influencing levels of individual mRNAs and responses to drugs and radiation. In the course of attempting to map genes for drug response using 269 LCLs from the International HapMap Project, we evaluated the extent to which biological noise and non-genetic confounders contribute to trait variability in LCLs. While drug responses could be technically well measured on a given day, we observed significant day-to-day variability and substantial correlation to non-genetic confounders, such as baseline growth rates and metabolic state in culture. After correcting for these confounders, we were unable to detect any QTLs with genome-wide significance for drug response. A much higher proportion of variance in mRNA levels may be attributed to non-genetic factors (intra-individual variance—i.e., biological noise, levels of the EBV virus used to transform the cells, ATP levels) than to detectable eQTLs. Finally, in an attempt to improve power, we focused analysis on those genes that had both detectable eQTLs and correlation to drug response; we were unable to detect evidence that eQTL SNPs are convincingly associated with drug response in the model. While LCLs are a promising model for pharmacogenetic experiments, biological noise and in vitro artifacts may reduce power and have the potential to create spurious association due to confounding.
+
+
+Abstract
+This review will provide an overview of the principles of pharmacogenomics from basic discovery to implementation, encompassing application of tools of contemporary genome science to the field (including areas of apparent divergence from disease-based genomics), a summary of lessons learned from the extensively studied drugs clopidogrel and warfarin, the current status of implementing pharmacogenetic testing in practice, the role of genomics and related tools in the drug development process, and a summary of future opportunities and challenges
+
+
+Revisiting Antipsychotic Drug Actions Through Gene Networks Associated With Schizophrenia
+
+Abstract
+Objective:
+Antipsychotic drugs were incidentally discovered in the 1950s, but their mechanisms of action are still not understood. Better understanding of schizophrenia pathogenesis could shed light on actions of current drugs and reveal novel “druggable” pathways for unmet therapeutic needs. Recent genome-wide association studies offer unprecedented opportunities to characterize disease gene networks and uncover drug-disease relationships. Polygenic overlap between schizophrenia risk genes and antipsychotic drug targets has been demonstrated, but specific genes and pathways constituting this overlap are undetermined. Risk genes of polygenic disorders do not operate in isolation but in combination with other genes through protein-protein interactions among gene product.
+
+Method:
+The protein interactome was used to map antipsychotic drug targets (N=88) to networks of schizophrenia risk genes (N=328).
+
+Results:
+Schizophrenia risk genes were significantly localized in the interactome, forming a distinct disease module. Core genes of the module were enriched for genes involved in developmental biology and cognition, which may have a central role in schizophrenia etiology. Antipsychotic drug targets overlapped with the core disease module and comprised multiple pathways beyond dopamine. Some important risk genes like CHRN, PCDH, and HCN families were not connected to existing antipsychotics but may be suitable targets for novel drugs or drug repurposing opportunities to treat other aspects of schizophrenia, such as cognitive or negative symptoms.
+
+Conclusions:
+The network medicine approach provides a platform to collate information of disease genetics and drug-gene interactions to shift focus from development of antipsychotics to multitarget antischizophrenia drugs. This approach is transferable to other diseases.
+
+Antipsychotics were incidentally discovered more than 60 years ago, but their mechanisms of action have still not been fully revealed. Antipsychotics are the main medication available to patients with schizophrenia but have little effect on negative and cognitive symptoms of the disease. Current antipsychotics are also limited by serious side effects (1, 2) that reduce treatment compliance (3), and about one-third of patients with psychosis are classified as treatment resistant (4). Thus, there is great need for improved medications for these patients, but drug development has been hampered by poor knowledge of disease etiology and underlying genetics. There is a growing interest in harnessing knowledge of risk genes for developing better treatments for common diseases (5–7). For example, Nelson et al. (8) found that drugs with genetically supported mechanisms of action succeeded in moving from phase 1 trials to gaining approval twice as often as drugs without genetic support. Schizophrenia is highly heritable (9), and a well-powered genome-wide association study (GWAS) identified as many as 108 independent loci related to the disease, containing more than 300 genes (10). Improved knowledge of these risk genes may be used to inform drug development by revealing potential mechanisms of action of current drugs and by identifying new drug targets. Antipsychotics bind to numerous proteins (11), of which dopamine and serotonin receptors are the only ones with known biological links to schizophrenia. However, a recent study found genetic overlap between schizophrenia risk genes and antipsychotic target genes, which suggests the pharmacological mechanisms may be polygenic and may also involve pathways that are not yet identified (12).
+
+Most genotype-phenotype relationships arise from complexity of cellular interactions (13). Risk genes of polygenic disorders do not operate in isolation but in combination and interaction with other risk genes. The effect of a perturbation in one gene can propagate to affect other nearby proteins in the protein-protein interaction network, referred to here as the interactome. Therefore, protein products of genes that are associated with a particular disease tend to interact with one another and converge on related biological and functional networks (the so-called disease module) rather than being randomly spread throughout the interactome (14, 15). Thus, network biology (16) or network medicine (15) provides an important framework where knowledge of protein-protein interactions can be used to gain more comprehensive insight into the molecular mechanisms of complex diseases (14, 17).
+
+The network approach also provides a unique opportunity to study drug effects by integrating the human interactome with knowledge of drug targets (18). The Drug-Gene Interaction Database (DGIdb) (11, 19) contains information on genes whose products are known to interact with drugs in humans (drug target genes), as well as genes that belong to the “druggable” genome (11, 20). Okada et al. (21) examined how targets of rheumatoid arthritis drugs map to the interactome neighborhood of identified risk genes for rheumatoid arthritis, and they found an overlap between drug target genes and risk genes as well as interactome neighbors of risk genes (21). Another study examined how drug target genes overlap with GWAS hits across a variety of diseases, and it found very little direct overlap (22). However, drug target genes showed threefold enrichment among the closest interactome neighbors, and enrichment was also significant among the second neighbors, suggesting that neighboring genes in the interactome should be included when searching for suitable candidates for drug repurposing (22).
+
+Here, adopting a novel network biology approach (14), we study the schizophrenia disease module and its intersection with current antipsychotic drug target genes integrating information from the human interactome (14) with data from the DGIdb. Our objective was to inform development of new medications (20) by improving understanding of disease etiology and the function of current medications, as well as by identifying genes worth further examination as new drug targets or drug repurposing opportunities. We first identified and characterized a schizophrenia disease module in the interactome, and then we examined the interactome link between antipsychotic drug targets and schizophrenia risk genes through protein interactions. We revealed the specific risk genes and pathways that are involved in this link as well as the risk genes that are not linked to current antipsychotics. This information may be useful for identifying targets of future drugs that may also treat symptoms of schizophrenia other than psychosis.
+
+Method
+Interactome Database
+The protein-protein interaction network used in our main analyses is the human interactome created by Menche et al. (14), consisting of 13,460 proteins interconnected by 141,296 high-confident physical interactions with experimental support. For comparison, we also used the STRING database (23) (see the data supplement that accompanies the online edition of this article).
+
+Network Terminology and Illustrations
+In the network terminology used throughout this article, nodes refer to genes or their corresponding gene products (proteins), and edges refer to connections between two genes through identified protein-protein interactions between their products. The distance (ds) between two nodes in the network is defined as the smallest number of edges, or steps, connecting them (i.e., shortest path length). Network figures were created using Cytoscape (24), with nodes illustrated as a shape (octagons for drug target genes, and circles for disease genes and neighbors of disease genes or drug targets) and edges as lines.
+
+Disease Risk Genes
+Schizophrenia risk genes were derived from the largest multicenter GWAS of schizophrenia to date (10) (36,989 cases and 113,075 controls), performed by the Psychiatric Genomics Consortium. In this GWAS, 108 independent loci were identified with a p value threshold of 5×10−8, which contained 326 potential causal protein coding genes (see Supplementary Table 3 in Ripke et al. [10]). In addition, one of the loci spans a large region on chromosome 6 containing the major histocompatibility complex (MHC). Because this locus contains hundreds of genes, all could not be included in the analyses as the majority might not be functionally related to schizophrenia. A recent article showed that the MHC-schizophrenia association is partly driven by the genes C4A and C4B (25). We therefore included these two genes in the analyses to represent the signal from the MHC region, resulting in a total of 328 risk genes included in the analyses.
+
+Network Localization
+To estimate network localization of the schizophrenia risk genes, we first calculated the shortest distance, ds, between each disease gene to the next closest disease gene and the corresponding frequency distribution, P(ds). To estimate if the disease genes were more localized than that expected by chance, 1,000 random sets of genes with the same number of genes as the disease set were generated to yield the distribution Prand(ds) from which test statistics could be calculated for the observed value of ds (see Menche et al. [14] for details). We also calculated the largest connected component of disease genes in the interactome space, containing S disease genes. S was compared with 1,000 random gene sets with the same number of genes to yield the distribution Prand(S). Following Menche et al., we define the schizophrenia disease module based on both ds and S. A statistically significant ds is driven by risk genes with the shortest distance to another risk gene (i.e., interconnected risk genes [d=1]), and genes in the largest connected component, S, are a subset of interconnected risk genes. Thus, we refer to interconnected risk genes as core genes of the disease module, or as the core disease module. We also performed control analyses with calculation of ds that takes node degree into account for the selection of random gene sets (26). Node degree was also incorporated to an alternative network localization method based on network neighborhood overlap (27) (see the online data supplement).
+
+Antipsychotic Drug Targets
+We included 64 drugs listed as antipsychotics in the Anatomical Therapeutic Chemical Classification System of the World Health Organization’s Collaborating Center for Drug Statistics Methodology. To identify drug-gene interactions in the interactome, we used data from the drug-gene interaction database (DGIdb version 2.22, http://dgidb.genome.wustl.edu, downloaded on Oct. 17, 2016), a freely accessible database for identifying known and potential drug-gene interactions (11, 19). We identified 88 genes targeted by at least one of the 64 antipsychotics. Eighty of these were included in the Menche et al. interactome with at least one interactor.
+
+Gene Set Enrichment Analysis
+We used MAGENTA (Meta-Analysis Gene-set Enrichment of variaNT Associations) (28) to test if antipsychotic drug targets, or their first interactome neighbors, were enriched for associations with schizophrenia compared with a large number of randomly selected genes (see the online data supplement for details). We also examined, as control analyses, potential enrichment of antipsychotic drug target genes among GWAS-identified risk genes for three control conditions: depressive symptoms (29), Alzheimer’s disease (30), and type 2 diabetes (31).
+
+Network Graph of Genetic Overlap Between Antipsychotic Targets and Disease Genes
+We calculated the number of interaction steps (edges) between each specific schizophrenia risk gene and its closest antipsychotic drug target in the interactome, with 0, 1, 2, or >2 steps.
+
+Gene Ontology Enrichment
+ToppGene (32) was used to examine enrichment in gene ontology annotations and pathways for the following subsets of risk gene sets related to the schizophrenia disease module: 1) all risk genes, 2) interconnected risk genes, 3) risk genes belonging to the largest connected component of risk genes (see Supplementary Table 1 in the data supplement). We also examined risk gene sets according to their shortest path length (distance) to antipsychotic drug targets in the interactome (0 or 1, 2, or >2 steps to an antipsychotic drug target; see Supplementary Table 2 in the data supplement). ToppGene uses hypergeometric distribution with Bonferroni correction for determining statistical significance. We included the gene ontology annotation categories molecular function and biological process, as well as pathways, with a Bonferroni-corrected p value threshold of 0.05.
+
+
+
+Genetic predisposition, modifiable lifestyles, and their joint effects on human lifespan: evidence from multiple cohort studies
+
+Abstract
+Objective To investigate the associations across genetic and lifestyle factors with lifespan.
+
+Design A longitudinal cohort study.
+
+Setting UK Biobank.
+
+Participants 353 742 adults of European ancestry, who were recruited from 2006 to 2010 and were followed up until 2021.
+
+Exposures A polygenic risk score for lifespan with long (<lowest quintile), intermediate (quintiles 2 to 4), and short (>highest quintile) risk categories and a weighted healthy lifestyle score, including no current smoking, moderate alcohol consumption, regular physical activity, healthy body shape, adequate sleep duration, and a healthy diet, categorised into favourable, intermediate, and unfavourable lifestyles.
+
+Main outcome measures Lifespan defined as the date of death or the censor date minus the date of birth.
+
+Results Of the included 353 742 participants of European ancestry with a median follow-up of 12.86 years, 24 239 death cases were identified. Participants were grouped into three genetically determined lifespan categories including long (20.1%), intermediate (60.1%), and short (19.8%), and into three lifestyle score categories including favourable (23.1%), intermediate (55.6%), and unfavourable (21.3%). The hazard ratio (HR) of death for individuals with a genetic predisposition to a short lifespan was 1.21 (95% CI 1.16 to 1.26) compared to those with a genetic predisposition to a long lifespan. The HR of death for individuals in the unfavourable lifestyle category was 1.78 (95% CI 1.71 to 1.85), compared with those in the favourable lifestyle category. Participants with a genetic predisposition to a short lifespan and an unfavourable lifestyle had 2.04 times (95% CI 1.87 to 2.22) higher rates of death compared with those with a genetic predisposition to a long lifespan and a favourable lifestyle. No multiplicative interaction was detected between the polygenic risk score of lifespan and the weighted healthy lifestyle score (p=0.10). The optimal combination of healthy lifestyles, including never smoking, regular physical activity, adequate sleep duration, and a healthy diet, was derived to decrease risk of premature death (death before 75 years).
+
+Conclusion Genetic and lifestyle factors were independently associated with lifespan. Adherence to healthy lifestyles could largely attenuate the genetic risk of a shorter lifespan or premature death. The optimal combination of healthy lifestyles could convey better benefits for a longer lifespan, regardless of genetic background.
+
+Drug–target interaction prediction based on protein features, using wrapper feature selection
+Hengame Abbasi Mesrabadi, Karim Faez & Jamshid Pirgazi 
+Scientific Reports volume 13, Article number: 3594 (2023) Cite this article
+
+6829 Accesses
+
+7 Citations
+
+6 Altmetric
+
+Metricsdetails
+
+Abstract
+Drug–target interaction prediction is a vital stage in drug development, involving lots of methods. Experimental methods that identify these relationships on the basis of clinical remedies are time-taking, costly, laborious, and complex introducing a lot of challenges. One group of new methods is called computational methods. The development of new computational methods which are more accurate can be preferable to experimental methods, in terms of total cost and time. In this paper, a new computational model to predict drug–target interaction (DTI), consisting of three phases, including feature extraction, feature selection, and classification is proposed. In feature extraction phase, different features such as EAAC, PSSM and etc. would be extracted from sequence of proteins and fingerprint features from drugs. These extracted features would then be combined. In the next step, one of the wrapper feature selection methods named IWSSR, due to the large amount of extracted data, is applied. The selected features are then given to rotation forest classification, to have a more efficient prediction. Actually, the innovation of our work is that we extract different features; and then select features by the use of IWSSR. The accuracy of the rotation forest classifier based on tenfold on the golden standard datasets (enzyme, ion channels, G-protein-coupled receptors, nuclear receptors) is as follows: 98.12, 98.07, 96.82, and 95.64. The results of experiments indicate that the proposed model has an acceptable rate in DTI prediction and is compatible with the proposed methods in other papers.
+
+
+
+
+
+
+Proteins as Drugs: Analysis, Formulation and Delivery
+Chapter
+pp 33–58
+Cite this chapter
+
+
+336 Accesses
+
+3 Citations
+
+Abstract
+The use of proteins as drugs is by no means new. Insulin, gamma-globulin and protein-containing vaccines have been routinely employed for decades. However, the advent of recombinant DNA technology has resulted in a dramatic expansion of interest in their pharmaceutical applications. It now appears that we can make virtually any desired protein in sufficient quantities for therapeutic use, although often with significant difficulty. It is considerably more problematic, however, to take the appropriate macromolecule and prepare it as a clinically acceptable drug substance. This problem arises from several sources. First, proteins are intrinsically less stable than their lower molecular weight (MW) pharmaceutical counterparts. Although this has turned out to be less of a problem than first anticipated, it remains a continuing challenge to formulate proteins that can be handled without damage throughout their entire lives; from their initial preparation, through distribution within the complex bio-medical system, into their ultimate clinical use in a hospital or doctor’s office or perhaps even in the home. Second, to make optimum use of a protein as a pharmaceutical agent, it is necessary to get it to the relevant in vivo site of action with maximum efficiency. A major potential power of proteins as therapeutic agents resides in their intrinsic compatibility with living systems. As critical components of virtually all biochemical processes, the presentation of a natural protein or one with specifically altered functional properties offers the opportunity to intervene in a pathological process with a high degree of specificity and minimal perturbation of normal processes.        
+
+
+
+
+Cross-Linked α-Synuclein as Inhibitor of Amyloid Formation
+by Nikoletta Murvai,Gabriella Gellen,András Micsonai,Gitta Schlosser andJózsef Kardos
+Int. J. Mol. Sci. 2023, 24(17), 13403; https://doi.org/10.3390/ijms241713403 - 29 Aug 2023
+Cited by 1 | Viewed by 1232
+Abstract The aggregation and amyloid formation of α-synuclein is associated with Parkinson’s disease and other synucleinopathies. In its native, monomeric form α-synuclein is an intrinsically disordered protein represented by highly dynamic conformational ensembles. Inhibition of α-synuclein aggregation using small molecules, peptides, or proteins has been at the center of interest in recent years. Our aim was to explore the effects of cross-linking on the structure and aggregation/amyloid formation properties of α-synuclein. Comparative analysis of available high-resolution amyloid structures and representative structural models and MD trajectory of monomeric α-synuclein revealed that potential cross-links in the monomeric protein are mostly incompatible with the amyloid forms and thus might inhibit fibrillation. Monomeric α-synuclein has been intramolecularly chemically cross-linked under various conditions using different cross-linkers. We determined the location of cross-links and their frequency using mass spectrometry and found that most of them cannot be realized in the amyloid structures. The inhibitory potential of cross-linked proteins has been experimentally investigated using various methods, including thioflavin-T fluorescence and transmission electron microscopy. We found that conformational constraints applied by cross-linking fully blocked α-synuclein amyloid formation. Moreover, DTSSP-cross-linked molecules exhibited an inhibitory effect on the aggregation of unmodified α-synuclein as well
+
+
+
+
+All-Atom Molecular Dynamics Simulations Indicated the Involvement of a Conserved Polar Signaling Channel in the Activation Mechanism of the Type I Cannabinoid Receptor
+by Arijit Sarkar,Argha Mitra andAttila Borics
+Int. J. Mol. Sci. 2023, 24(4), 4232; https://doi.org/10.3390/ijms24044232 - 20 Feb 2023
+Viewed by 2352
+Abstract The type I cannabinoid G protein-coupled receptor (CB1, GPCR) is an intensely investigated pharmacological target, owing to its involvement in numerous physiological functions as well as pathological processes such as cancers, neurodegenerative diseases, metabolic disorders and neuropathic pain. In order to develop modern medications that exert their effects through binding to the CB1 receptor, it is essential to understand the structural mechanism of activation of this protein. The pool of atomic resolution experimental structures of GPCRs has been expanding rapidly in the past decade, providing invaluable information about the function of these receptors. According to the current state of the art, the activity of GPCRs involves structurally distinct, dynamically interconverting functional states and the activation is controlled by a cascade of interconnecting conformational switches in the transmembrane domain. A current challenge is to uncover how different functional states are activated and what specific ligand properties are responsible for the selectivity towards those different functional states. Our recent studies of the μ-opioid and β2-adrenergic receptors (MOP and β2AR, respectively) revealed that the orthosteric binding pockets and the intracellular surfaces of these receptors are connected through a channel of highly conserved polar amino acids whose dynamic motions are in high correlation in the agonist- and G protein-bound active states. This and independent literature data led us to hypothesize that, in addition to consecutive conformational transitions, a shift of macroscopic polarization takes place in the transmembrane domain, which is furnished by the rearrangement of polar species through their concerted movements. Here, we examined the CB1 receptor signaling complexes utilizing microsecond scale, all-atom molecular dynamics (MD) simulations in order to see if our previous assumptions could be applied to the CB1 receptor too. Apart from the identification of the previously proposed general features of the activation mechanism, several specific properties of the CB1 have been indicated that could possibly be associated with the signaling profile of this receptor. Full article
+(This article belongs to the Special Issue Proteins in Drug Research)
+
+
+
+
+
+Plk4 Is a Novel Substrate of Protein Phosphatase 5
+by Edit Ábrahám,Zsuzsánna Réthi-Nagy,Péter Vilmos,Rita Sinka andZoltán Lipinszki
+Int. J. Mol. Sci. 2023, 24(3), 2033; https://doi.org/10.3390/ijms24032033 - 19 Jan 2023
+Cited by 2 | Viewed by 2415
+Abstract The conserved Ser/Thr protein phosphatase 5 (PP5) is involved in the regulation of key cellular processes, including DNA damage repair and cell division in eukaryotes. As a co-chaperone of Hsp90, PP5 has been shown to modulate the maturation and activity of numerous oncogenic kinases. Here, we identify a novel substrate of PP5, the Polo-like kinase 4 (Plk4), which is the master regulator of centriole duplication in animal cells. We show that PP5 specifically interacts with Plk4, and is able to dephosphorylate the kinase in vitro and in vivo, which affects the interaction of Plk4 with its partner proteins. In addition, we provide evidence that PP5 and Plk4 co-localize to the centrosomes in Drosophila embryos and cultured cells. We demonstrate that PP5 is not essential; the null mutant flies are viable without a severe mitotic phenotype; however, its loss significantly reduces the fertility of the animals. Our results suggest that PP5 is a novel regulator of the Plk4 kinase in Drosophila. Full article
+(This article belongs to the Special Issue Proteins in Drug Research)
+
+
+
+
+
+
+Association Mechanism and Conformational Changes in Trypsin on Its Interaction with Atrazine: A Multi- Spectroscopic and Biochemical Study with Computational Approach
+by Arwa Ishaq A. Khayyat,Seema Zargar,Tanveer A. Wani,Muneeb U. Rehman andAzmat Ali Khan
+Int. J. Mol. Sci. 2022, 23(10), 5636; https://doi.org/10.3390/ijms23105636 - 18 May 2022
+Cited by 27 | Viewed by 1917
+Abstract Atrazine (ATR) is a herbicide globally used to eliminate undesired weeds. Herbicide usage leads to various adverse effects on human health and the environment. The primary source of herbicides in humans is the food laced with the herbicides. The ATR binding to trypsin (TYP) was investigated in this study to explore its binding potential and toxicity. In vitro interaction of ATR with TYP was studied using multi-spectroscopic methods, molecular docking, and enzyme kinetics to explore the mechanism of binding for the TYP-ATR system. The TYP-ATR complex revealed binding constants (103 M−1), suggesting a moderate binding. The free energy for the TYP-ATR complexes was negative, suggesting a spontaneous interaction. Thermodynamic parameters enthalpy (ΔH) and entropy (ΔS) obtained positive values for the TYP-ATR system suggesting hydrophobic interactions in the binding process. Micro-environmental and conformational changes in TYP molecules were induced on interaction with ATR. Reduced catalytic activity of TYP was observed after interaction with ATR owing to the changes in the secondary structure of the TYP. Full article
+(This article belongs to the Special Issue Proteins in Drug Research)
+
+
+
+
+
+Article
+Protein Drugs
+September 2022VNU Journal of Science Medical and Pharmaceutical Sciences 38(3)
+September 202238(3)
+DOI:10.25073/2588-1132/vnumps.4436
+To read the full-text of this research, you can request a copy directly from the authors.
+
+Abstract
+To serve health care, up to now, sciences have successfully developed many drugs with different effects. In general, in terms of chemical structure and effect characteristics, medicine can be classified into groups including inorganic drugs, small-molecule organic drugs, protein drugs (macromolecules), and recently a new group of drugs has been formed, separate from the protein drug class, which is the RNA drugs. In terms of pharmacological effects, in general, the mechanisms of protein drugs and small-molecule organic drugs do not differ too much because they all act at a particular stage related to pathological manifestations. Protein drugs in the process of development have gone through many different stages, with different origins, from extraction and isolation from living tissues at an early stage to biosynthesis by recombinant technology and other modern biotechnology methods. To date, most of the proteins used in medicine have been produced through recombinant pathways, possibly through different semisynthetic steps to give the molecules more superior drug properties. Therefore, the group of protein drugs has an additional new name, biopharmaceuticals, to indicate their synthetic origin by biological methods. The research, development, and application of protein drugs into clinical practice are of great significance, helping to enhance the ability of medicine to control and treat many difficult-to-treat diseases today, bringing many opportunities to have good health for people. Keywords: Protein drugs, RNA drugs, Biopharmaceuticals, Inorganic drugs, Small-molecule organic drugs, Drug development, Cytokine, Enzyme, Hormone peptide, Stem cell, Recombinant technology, Biosimilar. *
+
+
+
+
+
+Drug–Protein interaction prediction by correcting the effect of incomplete information in heterogeneous information 
+Yanfei Li, Chang Sun, Jin-Mao Wei, Jian Liu
+Bioinformatics, Volume 38, Issue 22, 15 November 2022, Pages 5073–5080, https://doi.org/10.1093/bioinformatics/btac629
+Published: 16 September 2022 Article history
+pdfPDF
+ Split View
+ Cite
+Permissions Icon Permissions
+Share Icon Share 
+Abstract
+Motivation
+Large-scale heterogeneous data provide diverse perspectives for predicting drug–protein interactions (DPIs). However, the available information on molecular interactions and clinical associations related to drugs or proteins is incomplete because there may be unproven interactions and associations. This incomplete information in the available data is presented in the form of non-interaction and non-correlation, which may mislead the prediction model. Existing methods fuse incomplete and complete information without considering their integrity, so the negative effects of incomplete information still exist.
+
+
+
+Protein Based Drug Discovery
+New drug target discovery is currently very popular with a great potential for advancingbiomedical research and chemical genomics. Drug discovery is the process of discovering and designingdrugs that includes target identification, target validation, lead identification, lead optimization andintroduction of the new drugs to the public. G protein-coupled receptors are one of the most important drugtargets. In the current scenario of drug research, approximately 60% of drug target molecules are located atthe cell surface, and half of them are GPCRs. Fragment-based drug discovery is established as analternative approach to high-throughput screening for generating novel small molecule drug candidates.Nanotechnology-based drug delivery systems have seen recent popularity due to their favorable physical,chemical, and biological properties, and great efforts have been made to target nanoDDSs to specificcellular receptors. Protein-protein interactions regulate a wide variety of important cellular pathways, andtherefore represent a highly populated class of targets for drug discovery. An analysis of individual proteinproteininteraction systems has recently yielded success in the discovery of drug-like inhibitors.
+
+
+
+
+Protein and enzyme-based nanoformulations
+
+Abstract
+Protein drug delivery has significantly impacted the treatment of various important human diseases, including cancer, diabetes, and hypertension. Protein therapies provide advantages over conventional small-molecular medications, which continue to rule the pharmaceutical industry. These advantages include higher specificity, more significant activity, and lower toxicity. However, proteins' excellent specificity frequently necessitates keeping their structural complexity, making them challenging to alter. Moreover, there are considerable obstacles to the efficient transport of specific therapeutic proteins (such as enzymes and cytokines) to specific disease locations due to their sensitivity to enzymatic breakdown, short circulation half-lives, and low membrane permeability. Nanotechnology has shown numerous applications for protein delivery, and many more are now being tested in real-world settings. Particularly, nanoparticles, including lipidic nanoparticles, polymer nanoparticles, and inorganic nanomaterials, have significant benefits as drug carriers for protein delivery. It plays an important role in improving the difficulties mentioned above for protein delivery. In this chapter, we briefly discussed the nanocarrier systems for the delivery of protein and enzymes and highlighted the advantage of their applications for improved functionality. Also, we discussed the various challenges associated with protein delivery.
+
+
+
+
+
+Interactions of Drugs with Proteins II: Experimental Methods, Treatment of Experimental Data, and Thermodynamics of Binding Reactions of Thymoleptic Drugs and Model Dyes
+Abstract
+The binding to bovine albumin of the model dyes and drugs—bromocresol green, eosin, imipramine, and desipramine—has been studied using equilibrium dialysis, ultracentrifuge sedimentation, and difference spectrophotometry. An improved apparatus for equilibrium dialysis has been developed. Bromocresol green interacts with two types of binding sites: four ligands are bound by H-bonds, electron-donator-acceptor (and possibly hydrophobic) forces stabilized by electrostatic forces, and three to four ligands are bound by electrostatic forces only. Eosin is bound by van der Waals' forces and electron-donator-acceptor forces to three binding sites and by electrostatic forces to six binding sites. Imipramine interacts with only one type of binding site by van der Waals' and possibly hydrophobic forces, stabilized by dipoledipole forces and involving tyrosyl residues. There are n = 6 binding sites, and the intrinsic association constant k = 5 × 103M−1. Desipramine binding exhibits a more complicated mechanism, probably involving exposure of additional binding sites upon a drug-induced conformational change. Given concentrations of drug and protein yield the free-drug concentration and degree of binding as experimental values. From these the following parameters for each type of binding site have been determined by computer: n, k, free-enthalpy change, enthalpy change, and entropy change. From these parameters, as well as from spectral shifts and dependence on pH, ionic strength, and temperature, the modes and forces of interaction have been deduced according to previously discussed binding models and methods. Identical results are obtained by dialysis and ultracentrifugation if pH, ionic strength, and temperature are kept constant.
+
+
+
+
+Properties of Protein Drug Target Classes
+Simon C. Bull and Andrew J. Doig*
+Yoshihiro Yamanishi, Academic Editor
+
+Abstract
+Accurate identification of drug targets is a crucial part of any drug development program. We mined the human proteome to discover properties of proteins that may be important in determining their suitability for pharmaceutical modulation. Data was gathered concerning each protein’s sequence, post-translational modifications, secondary structure, germline variants, expression profile and drug target status. The data was then analysed to determine features for which the target and non-target proteins had significantly different values. This analysis was repeated for subsets of the proteome consisting of all G-protein coupled receptors, ion channels, kinases and proteases, as well as proteins that are implicated in cancer. Machine learning was used to quantify the proteins in each dataset in terms of their potential to serve as a drug target. This was accomplished by first inducing a random forest that could distinguish between its targets and non-targets, and then using the random forest to quantify the drug target likeness of the non-targets. The properties that can best differentiate targets from non-targets were primarily those that are directly related to a protein’s sequence (e.g. secondary structure). Germline variants, expression levels and interactions between proteins had minimal discriminative power. Overall, the best indicators of drug target likeness were found to be the proteins’ hydrophobicities, in vivo half-lives, propensity for being membrane bound and the fraction of non-polar amino acids in their sequences. In terms of predicting potential targets, datasets of proteases, ion channels and cancer proteins were able to induce random forests that were highly capable of distinguishing between targets and non-targets. The non-target proteins predicted to be targets by these random forests comprise the set of the most suitable potential future drug targets, and should therefore be prioritised when building a drug development programme.
+
+
+
+Fuzzy Drug Targets: Disordered Proteins in the Drug-Discovery Realm
+Abstract
+
+Intrinsically disordered proteins (IDPs) and regions (IDRs) form a large part of the eukaryotic proteome. Contrary to the structure–function paradigm, the disordered proteins perform a myriad of functions in vivo. Consequently, they are involved in various disease pathways and are plausible drug targets. Unlike folded proteins, that have a defined structure and well carved out drug-binding pockets that can guide lead molecule selection, the disordered proteins require alternative drug-development methodologies that are based on an acceptable picture of their conformational ensemble. In this review, we discuss various experimental and computational techniques that contribute toward understanding IDP “structure” and describe representative pursuances toward IDP-targeting drug development. We also discuss ideas on developing rational drug design protocols targeting IDPs.
+
+This publication is licensed under
+
+CC-BY 4.0.
+cc licence
+
+
+Posiphen as a candidate drug to lower CSF amyloid precursor protein
+Abstract
+Aim A first in human study to evaluate tolerability and pharmacokinetics followed by an early proof of mechanism (POM) study to determine whether the small orally, available molecule, Posiphen tartrate (Posiphen), lowers secreted (s) amyloid-β precursor protein (APP) α and -β, amyloid-β peptide (Aβ), tau (τ) and inflammatory markers in CSF of patients with mild cognitive impairment (MCI).
+
+
+Clinical aspects of protein glycation
+Abstract
+Introduction. Glycation is a post-translational modification of proteins that depends on the non-enzymatic linkage of a ketone or aldehyde group of sugar with a free amino group of protein. Pathological effects of this process are observed in many disease states under conditions of hyperglycemia, in diabetic complications, and neurodegenerative diseases such as multiple sclerosis. Aim. In this paper we present the characteristics of the glycation process, its consequences, as well as a review of current knowledge about the role of glycation in multiple sclerosis. Material and methods. The databases EBSCO, PubMed, ScienceDirect and SpringerLink were used to search the literature. Analysis of the literature. Intermediate glycation products form a number of derivatives that contribute to oxidative stress and structural changes in the proteins, including induction of aggregation or reduction of affinity for drug proteins. Glucose products may contribute to neurodegenerative changes in patients with multiple sclerosis. Determination of protein glycation products can be successfully used to evaluate the course of multiple sclerosis as a diagnostic marker.
+
+
+
+Protein and enzyme-based nanoformulations
+Abstract
+Protein drug delivery has significantly impacted the treatment of various important human diseases, including cancer, diabetes, and hypertension. Protein therapies provide advantages over conventional small-molecular medications, which continue to rule the pharmaceutical industry. These advantages include higher specificity, more significant activity, and lower toxicity. However, proteins' excellent specificity frequently necessitates keeping their structural complexity, making them challenging to alter. Moreover, there are considerable obstacles to the efficient transport of specific therapeutic proteins (such as enzymes and cytokines) to specific disease locations due to their sensitivity to enzymatic breakdown, short circulation half-lives, and low membrane permeability. Nanotechnology has shown numerous applications for protein delivery, and many more are now being tested in real-world settings. Particularly, nanoparticles, including lipidic nanoparticles, polymer nanoparticles, and inorganic nanomaterials, have significant benefits as drug carriers for protein delivery. It plays an important role in improving the difficulties mentioned above for protein delivery. In this chapter, we briefly discussed the nanocarrier systems for the delivery of protein and enzymes and highlighted the advantage of their applications for improved functionality. Also, we discussed the various challenges associated with protein delivery.
+
+
+
+Protein Structure Analysis
+AGNIESZKA SZARECKA and CHRISTOPHER DOBSON
+Abstract
+We describe a series of engaging exercises in which students emulate the process that researchers use to efficiently develop new pharmaceutical drugs, that of rational drug design. The activities are taken from a three- to four-hour workshop regularly conducted with first-year college students and presented here to take place over three to four class periods. Although targeted at college students, these activities may be appropriate at the high school level as well, particularly in an AP Biology course. The exercises introduce students to the topics of bioinformatics and computer modeling, in the context of rational drug design, using free online resources such as databases and computer programs. Through the process of learning about computational drug design and drug optimization, students also learn content such as elements of protein structure and protein–ligand interactions. Based on our assessment, students enjoy the exercises, become more interested in bioinformatics and computer modeling, and demonstrate an increase in content knowledge relevant to the topics.
+
+
+Protein/Peptide Drug Delivery Systems
+Pran Kishore Deb, ... Rakesh K. Tekade, in Basic Fundamentals of Drug Delivery, 2019
+
+Abstract
+Proteins and peptides are involved in a wide range of vital functions and processes in the body that are essential for life. Proteins and peptides also have various roles in pathological conditions such as cancer and diabetes. Therefore, the use of proteins and peptides as therapeutic agents is considered as an attractive approach to combating various diseases. However, the physicochemical properties of proteins and peptides make them challenging for exogenous administration, especially by the oral route of administration. Various protein/peptide drug delivery systems have been extensively investigated to overcome the problems associated with the exogenous administration of protein and peptide therapeutics. In this chapter, different approaches for the delivery of proteins and peptides are discussed including chemical modifications, absorption enhancers, carrier systems, and various other approaches.
+
+
+
+Basics and Recent Advances in Peptide and Protein Drug Delivery 
+ABSTRACT:
+While the peptide and protein therapeutic market has developed significantly in the past decades, delivery has limited their use. Despite the fact oral delivery is preferred, most are currently delivered intravenously or subcutaneously due to degradation and limited absorption in the gastrointestinal tract, absorption enhancers, enzyme inhibitors, carrier systems and stability enhancers are being studied to make easier oral peptide delivery. As well, transdermal peptide delivery avoids the issues of the gastrointestinal tract, but also faces absorption limitations. Due to proteases, opsonisation and agglutination, free peptides are not systemically stable without modifications. This review discusses oral and transdermal peptide drug delivery, focusing on barriers and solutions to absorption and stability issues. Methods to increase systemic stability and site-specific delivery are also discussed.
+
+
+
+Assessment of Modern Excipients in Controlled Delivery of Proteins and Peptides
+Venkata Sai Dheeraj Munjulury
+Department of Formulation R&D, Cipla Ltd., 400083, Mumbai, India
+Robertina Calico
+Department of Polymer Science, University of Bologna, 40126 Bologna, Italy
+DOI https://doi.org/10.22270/jddt.v10i6-s.4631
+ABSTRACT
+Polymeric micelles are highly proficient of modulating the function, distribution of drugs in the body, and can overcome biological barriers hence provoked as novel nanomedicine via various formulations. Current review emphasis on application of several polymers, biomaterials, lipids for the preparation of polymeric micelles formed by several molecular interactions between the block co-polymers and encapsulated molecules.  Micellar carriers will be selected on basis of the type of polymer/payload interaction, which includes biological interface focused on the internal chemistry and fabrication of block-co polymers. Several features of these carriers can be manipulated to catering a broad range of drugs through active sensing of body targets. The fine-tuning of their properties in response to particular stimuli, modulating the activity of the loaded drugs at the targeted sites, even at the subcellular level. To end with, the future perspective and impending challenges for polymeric micelles as nanomedicine are elaborated, anticipating prompting further innovation
+
+
+
+Anti-tuberculosis drug target discovery by targeting the higher in-degree proteins (HidPs) of the pathogen’s transcriptional network
+
+Abstract
+With the emergence of multiple-drug resistant bacteria pathogens, it has become increasingly important to develop new strategies for exploring alternative drug targets and new bactericides. However, new drug targets with a different antimycobacterial spectrum than current clinical drugs are lacking. In this study, based on a transcriptional regulation (TR) network of Mycobacterium tuberculosis, more than 60 higher in-degree proteins (HidPs) from the network were first characterized. Targeting HidPs of the TR network was further shown to be an efficient strategy for potential anti-tuberculosis drug target discovery. Top 5 HidPs, whose crystal structures have been resolved, were selected as hypothetical targets for docking-based virtual screen against a library containing 10,756 compounds. Seventy-nine docking compounds were used for further antibacterial screen. Six compounds, which target 4 HidPs, could specifically inhibit the growth of both M. tuberculosis H37Rv and a multi-drug resistant strain isolated from a clinic. Furthermore, the specific interaction of a newly characterized inhibitor with the Rv3290c protein could be confirmed. Thus, we have characterized new anti-tuberculosis candidate targets and bactericides, and the identified HidPs can serve as an important resource for further anti-TB drug discovery efforts. Our strategy should be applicable for combating a wide range of pathogens.
+
+
+
+Fibroblast Activation Protein Triggers Release of Drug Payload from Non-internalizing Small Molecule Drug Conjugates in Solid Tumors 
+
+Abstract
+Purpose:
+Small molecule drug conjugates (SMDC) are modular anticancer prodrugs that include a tumor-targeting small organic ligand, a cleavable linker, and a potent cytotoxic agent. Most of the SMDC products that have been developed for clinical applications target internalizing tumor-associated antigens on the surface of tumor cells. We have recently described a novel non-internalizing small organic ligand (named OncoFAP) of fibroblast activation protein (FAP), a tumor-associated antigen highly expressed in the stroma of most solid human malignancies.
+
+
+
+The Ice-Water Interface and Protein Stability: A Review
+Abstract
+The ice-water interface is commonly encountered in our life, and comes into play in a wide number of natural phenomena. Here, attention will be focused on its effects on protein stability, with specific reference to the case of pharmaceutical proteins. This field represents a fascinating, and not yet fully understood, subject of investigation. Some background information on the ice-water phase diagram, as well as to the mechanisms of nucleation and crystal growth, will be provided. We will eventually discuss the effect of ice on protein activity, reviewing the mechanisms of ice-induced denaturation that have been proposed so far and discussing the strategies that may help prevent, or minimize, undesired loss of therapeutic activity.
+
+
+
+
+Properties of Protein Drug Target Classes
+Abstract
+Accurate identification of drug targets is a crucial part of any drug development program. We mined the human proteome to discover properties of proteins that may be important in determining their suitability for pharmaceutical modulation. Data was gathered concerning each protein’s sequence, post-translational modifications, secondary structure, germline variants, expression profile and drug target status. The data was then analysed to determine features for which the target and non-target proteins had significantly different values. This analysis was repeated for subsets of the proteome consisting of all G-protein coupled receptors, ion channels, kinases and proteases, as well as proteins that are implicated in cancer. Machine learning was used to quantify the proteins in each dataset in terms of their potential to serve as a drug target. This was accomplished by first inducing a random forest that could distinguish between its targets and non-targets, and then using the random forest to quantify the drug target likeness of the non-targets. The properties that can best differentiate targets from non-targets were primarily those that are directly related to a protein’s sequence (e.g. secondary structure). Germline variants, expression levels and interactions between proteins had minimal discriminative power. Overall, the best indicators of drug target likeness were found to be the proteins’ hydrophobicities, in vivo half-lives, propensity for being membrane bound and the fraction of non-polar amino acids in their sequences. In terms of predicting potential targets, datasets of proteases, ion channels and cancer proteins were able to induce random forests that were highly capable of distinguishing between targets and non-targets. The non-target proteins predicted to be targets by these random forests comprise the set of the most suitable potential future drug targets, and should therefore be prioritised when building a drug development programme.
+
+
+Fuzzy Drug Targets: Disordered Proteins in the Drug-Discovery Realm
+Abstract
+
+Intrinsically disordered proteins (IDPs) and regions (IDRs) form a large part of the eukaryotic proteome. Contrary to the structure–function paradigm, the disordered proteins perform a myriad of functions in vivo. Consequently, they are involved in various disease pathways and are plausible drug targets. Unlike folded proteins, that have a defined structure and well carved out drug-binding pockets that can guide lead molecule selection, the disordered proteins require alternative drug-development methodologies that are based on an acceptable picture of their conformational ensemble. In this review, we discuss various experimental and computational techniques that contribute toward understanding IDP “structure” and describe representative pursuances toward IDP-targeting drug development. We also discuss ideas on developing rational drug design protocols targeting IDPs.
+
+This publication is licensed under
+
+CC-BY 4.0.
+cc licence
+by licence  
+
+
+
+
+
+UDoNC: An Algorithm for Identifying Essential Proteins Based on Protein Domains and Protein-Protein Interaction Networks
+Abstract:
+Prediction of essential proteins which are crucial to an organism's survival is important for disease analysis and drug design, as well as the understanding of cellular life. The majority of prediction methods infer the possibility of proteins to be essential by using the network topology. However, these methods are limited to the completeness of available protein-protein interaction (PPI) data and depend on the network accuracy. To overcome these limitations, some computational methods have been proposed. However, seldom of them solve this problem by taking consideration of protein domains. In this work, we first analyze the correlation between the essentiality of proteins and their domain features based on data of 13 species. We find that the proteins containing more protein domain types which rarely occur in other proteins tend to be essential. Accordingly, we propose a new prediction method, named UDoNC, by combining the domain features of proteins with their topological properties in PPI network. In UDoNC, the essentiality of proteins is decided by the number and the frequency of their protein domain types, as well as the essentiality of their adjacent edges measured by edge clustering coefficient. The experimental results on S. cerevisiae data show that UDoNC outperforms other existing methods in terms of area under the curve (AUC). Additionally, UDoNC can also perform well in predicting essential proteins on data of E. coli.
+
+
+Essential Protein Detection by Random Walk on Weighted Protein-Protein Interaction Networks
+Abstract:
+Essential proteins are critical to the development and survival of cells. Identification of essential proteins is helpful for understanding the minimal set of required genes in a living cell and for designing new drugs. To detect essential proteins, various computational methods have been proposed based on protein-protein interaction (PPI) networks. However, protein interaction data obtained by high-throughput experiments usually contain high false positives, which negatively impacts the accuracy of essential protein detection. Moreover, most existing studies focused on the local information of proteins in PPI networks, while ignoring the influence of indirect protein interactions on essentiality. In this paper, we propose a novel method, called Essentiality Ranking (EssRank in short), to boost the accuracy of essential protein detection. To deal with the inaccuracy of PPI data, confidence scores of interactions are evaluated by integrating various biological information. Weighted edge clustering coefficient (WECC), considering both interaction confidence scores and network topology, is proposed to calculate edge weights in PPI networks. The weight of each node is evaluated by the sum of WECC values of its linking edges. A random walk method, making use of both direct and indirect protein interactions, is then employed to calculate protein essentiality iteratively. Experimental results on the yeast PPI network show that EssRank outperforms most existing methods, including the most commonly-used centrality measures (SC, DC, BC, CC, IC, and EC), topology based methods (DMNC and NC) and the data integrating method IEW.
+
+
+Identification of Protein Complexes by Using a Spatial and Temporal Active Protein Interaction Network
+
+Abstract:
+The rapid development of proteomics and high-throughput technologies has produced a large amount of Protein-Protein Interaction (PPI) data, which makes it possible for considering dynamic properties of protein interaction networks (PINs) instead of static properties. Identification of protein complexes from dynamic PINs becomes a vital scientific problem for understanding cellular life in the post genome era. Up to now, plenty of models or methods have been proposed for the construction of dynamic PINs to identify protein complexes. However, most of the constructed dynamic PINs just focus on the temporal dynamic information and thus overlook the spatial dynamic information of the complex biological systems. To address the limitation of the existing dynamic PIN analysis approaches, in this paper, we propose a new model-based scheme for the construction of the Spatial and Temporal Active Protein Interaction Network (ST-APIN) by integrating time-course gene expression data and subcellular location information. To evaluate the efficiency of ST-APIN, the commonly used classical clustering algorithm MCL is adopted to identify protein complexes from ST-APIN and the other three dynamic PINs, NF-APIN, DPIN, and TC-PIN. The experimental results show that, the performance of MCL on ST-APIN outperforms those on the other three dynamic PINs in terms of matching with known complexes, sensitivity, specificity, and f-measure. Furthermore, we evaluate the identified protein complexes by Gene Ontology (GO) function enrichment analysis. The validation shows that the identified protein complexes from ST-APIN are more biologically significant. This study provides a general paradigm for constructing the ST-APINs, which is essential for further understanding of molecular systems and the biomedical mechanism of complex diseases.
+
+
+
+Protein–Protein Interactions Prediction via Multimodal Deep Polynomial Network and Regularized Extreme Learning Machine
+
+Abstract:
+Predicting the protein-protein interactions (PPIs) has played an important role in many applications. Hence, a novel computational method for PPIs prediction is highly desirable. PPIs endow with protein amino acid mutation rate and two physicochemical properties of protein (e.g., hydrophobicity and hydrophilicity). Deep polynomial network (DPN) is well-suited to integrate these modalities since it can represent any function on a finite sample dataset via the supervised deep learning algorithm. We propose a multimodal DPN (MDPN) algorithm to effectively integrate these modalities to enhance prediction performance. MDPN consists of a two-stage DPN, the first stage feeds multiple protein features into DPN encoding to obtain high-level feature representation while the second stage fuses and learns features by cascading three types of high-level features in the DPN encoding. We employ a regularized extreme learning machine to predict PPIs. The proposed method is tested on the public dataset of H. pylori, Human, and Yeast and achieves average accuracies of 97.87%, 99.90%, and 98.11%, respectively. The proposed method also achieves good accuracies on other datasets. Furthermore, we test our method on three kinds of PPI networks and obtain superior prediction results.
+
+
+A New Method for Predicting Protein Functions From Dynamic Weighted Interactome Networks
+
+Abstract:
+Automated annotation of protein function is challenging. As the number of sequenced genomes rapidly grows, the overwhelming majority of proteins can only be annotated computationally. Under new conditions or stimuli, not only the number and location of proteins would be changed, but also their interactions. This dynamic feature of protein interactions, however, was not considered in the existing function prediction algorithms. Taking the dynamic nature of protein interactions into consideration, we construct a dynamic weighted interactome network (DWIN) by integrating protein-protein interaction (PPI) network and time course gene expression data, as well as proteins' domain information and protein complex information. Then, we propose a new prediction approach that predicts protein functions from the constructed dynamic weighted interactome network. For an unknown protein, the proposed method visits dynamic networks at different time points and scores functions derived from all neighbors. Finally, the method selects top N functions from these ranked candidate functions to annotate the testing protein. Experiments on PPI datasets were conducted to evaluate the effectiveness of the proposed approach in predicting unknown protein functions. The evaluation results demonstrated that the proposed method outperforms other competing methods.
+
+
+Altering Indispensable Proteins in Controlling Directed Human Protein Interaction Network
+
+Abstract:
+The numerous interconnections within complex systems enable us to control networks towards a desired state through a few suitable selected nodes, which are called driver nodes. Recent works analyzed directed human Protein-Protein Interaction (PPI) network based on structural control theory. They found that indispensable proteins, whose removal increase the number of driver nodes, are the primary targets of human viruses and drugs. However, the human PPI network is usually incomplete and may include many false-positive or false-negative interactions. That prompts us to ask whether these indispensable proteins are stable to possible structural changes. Here, we present a method to alter the type of indispensable proteins and thereby investigate the stability of indispensable proteins. By comparing the sets of indispensable proteins before and after structural changes to the network, we find that very few added or removed interactions can change the type of many indispensable nodes. Furthermore, some indispensable proteins are very sensitive to structural changes and have significantly lower interactions than the other indispensable proteins. The results indicate that indispensable proteins are sensitive to structural changes. Therefore, approaches based on structural control theory should be used with caution because of the incomplete nature of these networks.
+
+
+CollaPPI: A Collaborative Learning Framework for Predicting Protein-Protein Interactions
+
+Abstract:
+Exploring protein-protein interaction (PPI) is of paramount importance for elucidating the intrinsic mechanism of various biological processes. Nevertheless, experimental determination of PPI can be both time-consuming and expensive, motivating the exploration of data-driven deep learning technologies as a viable, efficient, and accurate alternative. Nonetheless, most current deep learning-based methods regarded a pair of proteins to be predicted for possible interaction as two separate entities when extracting PPI features, thus neglecting the knowledge sharing among the collaborative protein and the target protein. Aiming at the above issue, a collaborative learning framework CollaPPI was proposed in this study, where two kinds of collaboration, i.e., protein-level collaboration and task-level collaboration, were incorporated to achieve not only the knowledge-sharing between a pair of proteins, but also the complementation of such shared knowledge between biological domains closely related to PPI (i.e., protein function, and subcellular location). Evaluation results demonstrated that CollaPPI obtained superior performance compared to state-of-the-art methods on two PPI benchmarks. Besides, evaluation results of CollaPPI on the additional PPI type prediction task further proved its excellent generalization ability.
+
+
+DPCMNE: Detecting Protein Complexes From Protein-Protein Interaction Networks Via Multi-Level Network Embedding
+
+Abstract:
+Biological functions of a cell are typically carried out through protein complexes. The detection of protein complexes is therefore of great significance for understanding the cellular organizations and protein functions. In the past decades, many computational methods have been proposed to detect protein complexes. However, most of the existing methods just search the local topological information to mine dense subgraphs as protein complexes, ignoring the global topological information. To tackle this issue, we propose the DPCMNE method to detect protein complexes via multi-level network embedding. It can preserve both the local and global topological information of biological networks. First, DPCMNE employs a hierarchical compressing strategy to recursively compress the input protein-protein interaction (PPI) network into multi-level smaller PPI networks. Then, a network embedding method is applied on these smaller PPI networks to learn protein embeddings of different levels of granularity. The embeddings learned from all the compressed PPI networks are concatenated to represent the final protein embeddings of the original input PPI network. Finally, a core-attachment based strategy is adopted to detect protein complexes in the weighted PPI network constructed by the pairwise similarity of protein embeddings. To assess the efficiency of our proposed method, DPCMNE is compared with other eight clustering algorithms on two yeast datasets. The experimental results show that the performance of DPCMNE outperforms those state-of-the-art complex detection methods in terms of F1 and F1 + Acc . Furthermore, the results of functional enrichment analysis indicate that protein complexes detected by DPCMNE are more biologically significant in terms of P-score .
+
+
+Computational Prediction of HCV-Human Protein-Protein Interaction via Topological Analysis of HCV Infected PPI Modules
+
+Abstract:
+In this paper, we have developed a framework for detection of protein-protein interactions (PPI) between Hepatitis-C virus (HCV) and human proteins based on PPI and gene ontology based information of the HCV infected proteins. First, a bipartite interaction network is formed between HCV proteins and human host proteins. Next, we have analyzed different topological properties of the interaction network and observed that degree of HCV-interacting proteins is significantly higher than non-interacting host proteins. We have also observed that the HCV interacted protein pairs are functionally similar with each other than the non-interacting pairs. Following the observations, we have applied an inference mechanism to predict novel interactions between HCV and human protein. The inference mechanism is based on partitioning the network formed by HCV interacted human proteins and their first neighbors in dense and functionally similar groups using a PPI network clustering algorithm. The groups are then analyzed to predict PPIs. The predicted interaction pairs are validated using literature search in PUBMED. Experimental evidence of over 50% of the predicted pairs are found in existing literatures by searching PUBMED. A Gene Ontology and pathway based analysis is also carried out to validate the identified modules biologically.
+
+
+Protein Complex Prediction in Large Ontology Attributed Protein-Protein Interaction Networks
+
+Abstract:
+Protein complexes are important for unraveling the secrets of cellular organization and function. Many computational approaches have been developed to predict protein complexes in protein-protein interaction (PPI) networks. However, most existing approaches focus mainly on the topological structure of PPI networks, and largely ignore the gene ontology (GO) annotation information. In this paper, we constructed ontology attributed PPI networks with PPI data and GO resource. After constructing ontology attributed networks, we proposed a novel approach called CSO (clustering based on network structure and ontology attribute similarity). Structural information and GO attribute information are complementary in ontology attributed networks. CSO can effectively take advantage of the correlation between frequent GO annotation sets and the dense subgraph for protein complex prediction. Our proposed CSO approach was applied to four different yeast PPI data sets and predicted many well-known protein complexes. The experimental results showed that CSO was valuable in predicting protein complexes and achieved state-of-the-art performance.
+
+
+
+Protein function prediction using frequent patterns in protein-protein interaction networks
+
+Abstract:
+Protein function prediction is one of the most challenging problems in the post-genomic era. Previous prediction methods using protein-protein interaction networks relied on the neighborhoods or the connected paths to known proteins. Still new algorithm is required to increase the accuracy. In this paper, we propose a novel protein function prediction approach on the basis of frequent pattern mining in graph data. A protein-protein interaction network is represented as an unweighted, undirected graph with nodes denoting proteins and edges denoting interactions between proteins. Each node is labeled with a set of corresponding protein functions. The function prediction method is processed in three steps, neighbor finding, pattern finding and function annotation. Using our approach we predict protein functions on a core set of protein-protein interaction data from DIP (Database of Interacting Proteins) and function annotation data from FunCat of MIPS (the Munich Information Center for Protein Sequences). The experimental results show better performance in prediction accuracy than existing neighbor counting methods
+
+
+Predicting Protein-Protein Interactions Using Sequence and Network Information via Variational Graph Autoencoder
+
+Abstract:
+Protein-protein interactions (PPIs) play a critical role in the proteomics study, and a variety of computational algorithms have been developed to predict PPIs. Though effective, their performance is constrained by high false-positive and false-negative rates observed in PPI data. To overcome this problem, a novel PPI prediction algorithm, namely PASNVGA, is proposed in this work by combining the sequence and network information of proteins via variational graph autoencoder. To do so, PASNVGA first applies different strategies to extract the features of proteins from their sequence and network information, and obtains a more compact form of these features using principal component analysis. In addition, PASNVGA designs a scoring function to measure the higher-order connectivity between proteins and so as to obtain a higher-order adjacency matrix. With all these features and adjacency matrices, PASNVGA trains a variational graph autoencoder model to further learn the integrated embeddings of proteins. The prediction task is then completed by using a simple feedforward neural network. Extensive experiments have been conducted on five PPI datasets collected from different species. Compared with several state-of-the-art algorithms, PASNVGA has been demonstrated as a promising PPI prediction algorithm.
+
+
+An Iteration Method for Identifying Yeast Essential Proteins From Weighted PPI Network Based on Topological and Functional Features of Proteins
+
+Abstract:
+Accumulating studies have indicated that essential proteins play critical roles in numerous biological processes. With the rapid development of high-throughput technologies, a large number of Protein-Protein Interaction (PPI) data have been found in Saccharomyces cerevisiae, which facilitate the formation of PPI networks. Up to now, a series of computational methods for predicting essential proteins from PPI networks have been proposed successively. However, the prediction accuracy of these computational methods is still not quite satisfactory. In this paper, a novel prediction method called CVIM is proposed to infer potential essential proteins. In CVIM, original PPI networks will be first transferred into weighted PPI networks by implementing PCC (Pearson Correlation Coefficient) on protein gene expression data. And then, based on weighted PPI networks and information of orthologous proteins, some critical network topological features and protein functional features will be extracted for each protein in the weighted PPI network. Finally, based on these newly extracted topological and functional features of proteins, an iterative algorithm will be designed to predict essential proteins. In order to evaluate the identification performance of CVIM, we have compared CVIM with 13 kinds of state-of-the-art prediction methods. Experimental results show that CVIM can achieve prediction accuracies of 92%, 80% and 71% out of the top 1%, 5% and 10% candidate proteins separately, which significantly outperform the prediction accuracies achieved by those state-of-the-art prediction methods. We have demonstrated that the prediction accuracy of essential proteins can be effectively improved by integrating the functional and network topological characteristics of proteins, which means that the novel method CVIM may be an excellent addition to the protein researches in the future.
+
+
+ protein classification and interaction rules in protein-protein interaction network in Saccharomyces cerevisia
+
+
+Abstract:
+The majority of cellular functions can rarely be attributed to a single protein, gene or enzyme. Protein-protein interactions are fundamental to most of cellular processes or functions. Hubs, proteins with high connectivity, mediate the organization and function of cellular protein interaction networks (PINs). As a first step, research on hub proteins starts with classification. Although there are a few methods to classify hubs, the connection between classification methods and property of protein-protein interaction is unclear. In this work, hub proteins in S. cerevisiae were classified into three categories: systemic hubs, component hubs and process hubs based on biological annotation information in Gene Ontology (GO) using X-means clustering. The sub-network graphs of hubs and non-hubs were constructed. The hub proteins in different categories in the PIN graphs distribute differently. The distributions of sub-networks of systemic hub and non-hub proteins are uniform, while those of process hub and component hub proteins are modular. A parameter as an indication of protein class interaction bias (PCIB) was introduced and calculated to describe the tendency of a protein to interact with other proteins. It was shown that interaction bias among hub proteins, and from nonhub proteins to hub proteins are strong, while interaction bias among non-hub proteins or from hub to non-hub proteins is weak. Our theoretical result is consistent with experimental findings that different groups of hubs function at specific times or in characteristic space in cellular system. For the first time, we show the interactions among different hub classes are biased, and the interaction between hubs is directional. Our result also suggests possible connection between hub classification and protein interaction bias.
+
+
+PCE-FR: A Novel Method for Identifying Overlapping Protein Complexes in Weighted Protein-Protein Interaction Networks Using Pseudo-Clique Extension Based on Fuzzy Relation
+
+Abstract:
+Identifying overlapping protein complexes in protein-protein interaction (PPI) networks can provide insight into cellular functional organization and thus elucidate underlying cellular mechanisms. Recently, various algorithms for protein complexes detection have been developed for PPI networks. However, majority of algorithms primarily depend on network topological feature and/or gene expression profile, failing to consider the inherent biological meanings between protein pairs. In this paper, we propose a novel method to detect protein complexes using pseudo-clique extension based on fuzzy relation (PCE-FR). Our algorithm operates in three stages: it first forms the nonoverlapping protein substructure based on fuzzy relation and then expands each substructure by adding neighbor proteins to maximize the cohesive score. Finally, highly overlapped candidate protein complexes are merged to form the final protein complex set. Particularly, our algorithm employs the biological significance hidden in protein pairs to construct edge weight for protein interaction networks. The experiment results show that our method can not only outperform classical algorithms such as CFinder, ClusterONE, CMC, RRW, HC-PIN, and ProRank +, but also achieve ideal overall performance in most of the yeast PPI datasets in terms of composite score consisting of precision, accuracy, and separation. We further apply our method to a human PPI network from the HPRD dataset and demonstrate it is very effective in detecting protein complexes compared to other algorithms.
+
+
+
+Host-Pathogen Protein Interaction Prediction Based on Local Topology Structures of a Protein Interaction Network
+
+Abstract:
+Understanding how pathogen's proteins interact with its host's proteins is the key concept for understanding pathogen's infection mechanism, which can lead to the discovery of improved therapeutics for treating infectious diseases. Several studies suggest that proteins from various pathogens tend to interact with human proteins involved in the same biological pathway. This implies that pathogens are inclined to target host's proteins with similar function. In addition, conservation between a protein's function and its local topological structure in a protein-protein interaction network (PIN) has been previously characterized. This leads to the hypothesis that pathogens target the host's proteins with a similar local topological structure in a PIN. In this work, this hypothesis is examined by adding a graphlet degree vector of a protein in the human PIN as a feature in the prediction model and using that model to predict the protein-protein interaction between human and four pathogens. The results show that this graphlet degree vector increases the performance significantly for all pathogens. This suggests that the intraspecies protein-protein interactions should be taken into consideration when developing prediction methods for host-pathogen protein interaction. The results also support the hypothesis that there exists a relationship between a protein's function and the local topology of the PIN.sss
+
+Predicting Essential Proteins by Integrating Network Topology, Subcellular Localization Information, Gene Expression Profile and GO Annotation Data
+
+Abstract:
+Essential proteins are indispensable for maintaining normal cellular functions. Identification of essential proteins from Protein-protein interaction (PPI) networks has become a hot topic in recent years. Traditionally biological experimental based approaches are time-consuming and expensive, although lots of computational based methods have been developed in the past years; however, the prediction accuracy is still unsatisfied. In this research, by introducing the protein sub-cellular localization information, we define a new measurement for characterizing the protein's subcellular localization essentiality, and a new data fusion based method is developed for identifying essential proteins, named TEGS, based on integrating network topology, gene expression profile, GO annotation information, and protein subcellular localization information. To demonstrate the efficiency of the proposed method TEGS, we evaluate its performance on two Saccharomycescerevisiae datasets and compare with other seven state-of-the-art methods (DC, BC, NC, PeC, WDC, SON, and TEO) in terms of true predicted number, jackknife curve, and precision-recall curve. Simulation results show that the TEGS outperforms the other compared methods in identifying essential proteins. The source code of TEGS is freely available at 
+
+
+PPIExtractor: A Protein Interaction Extraction and Visualization System for Biomedical Literature
+
+
+Abstract:
+Protein-protein interactions (PPIs) play a key role in various aspects of the structural and functional organization of the cell. Knowledge about them unveils the molecular mechanisms of biological processes. However, the amount of biomedical literature regarding protein interactions is increasing rapidly and it is difficult for interaction database curators to detect and curate protein interaction information manually. In this paper, we present a PPI extraction system, termed PPIExtractor, which automatically extracts PPIs from biomedical text and visualizes them. Given a Medline record dataset, PPIExtractor first applies Feature Coupling Generalization (FCG) to tag protein names in text, next uses the extended semantic similarity-based method to normalize them, then combines feature-based, convolution tree and graph kernels to extract PPIs, and finally visualizes the PPI network. Experimental evaluations show that PPIExtractor can achieve state-of-the-art performance on a DIP subset with respect to comparable evaluations. PPIExtractor is freely available for academic purposes at:
+
+
+A Fast Hierarchical Clustering Algorithm for Functional Modules Discovery in Protein Interaction Networks
+
+Abstract:
+As advances in the technologies of predicting protein interactions, huge data sets portrayed as networks have been available. Identification of functional modules from such networks is crucial for understanding principles of cellular organization and functions. However, protein interaction data produced by high-throughput experiments are generally associated with high false positives, which makes it difficult to identify functional modules accurately. In this paper, we propose a fast hierarchical clustering algorithm HC-PIN based on the local metric of edge clustering value which can be used both in the unweighted network and in the weighted network. The proposed algorithm HC-PIN is applied to the yeast protein interaction network, and the identified modules are validated by all the three types of Gene Ontology (GO) Terms: Biological Process, Molecular Function, and Cellular Component. The experimental results show that HC-PIN is not only robust to false positives, but also can discover the functional modules with low density. The identified modules are statistically significant in terms of three types of GO annotations. Moreover, HC-PIN can uncover the hierarchical organization of functional modules with the variation of its parameter's value, which is approximatively corresponding to the hierarchical structure of GO annotations. Compared to other previous competing algorithms, our algorithm HC-PIN is faster and more accurate.
+
+
+Comparisons of the protein-protein interaction networks constructed from the DIP database with different version
+
+Abstract:
+Protein-protein interactions (PPI) play the most important role in the interactomics systems in living cells. The protein- protein interaction network (PIN) is displayed as an undirected graph, in which the biological functions of proteins were properly encoded. In this paper, the complex network theory was used in analyzing the protein-protein interactions from Database of Interacting Protein (DIP). The general topological features: right-skewed degree distributions, relatively small clustering coefficients and short characteristic path lengths were introduced to character the properties of the giant component of PIN (GCOP). While, tests were done on the degree distributions of GCOPs in order to find the best-fit power low model. At last, the Comparisons were made between the different PINs constructed on the DIP database with different version. The results led to the findings that the PINs lack modularity and tree structure should be the framework of these topologies. Moreover, the PINs are not well connected, the PPI data is substantially incomplete, the PPI between different components should be substantially explored.
+
+
+A Refined 3-in-1 Fused Protein Similarity Measure: Application in Threshold-Free Hub Detection
+
+Abstract:
+An exhaustive literature survey shows that finding protein/gene similarity is an important step towards solving widespread bioinformatics problems, such as predicting protein-protein interactions, analyzing Protein-Protein Interaction Networks (PPINs), gene prioritization, and disease gene/protein detection. In this article, we have proposed an improved 3-in-1 fused protein similarity measure called FuSim-II . It is built upon combining the weighted average of biological knowledge extracted from three potential genomic/ proteomic resources such as Gene Ontology (GO), PPIN, and protein sequence. Furthermore, we have shown the application of the proposed measure in detecting potential hub-proteins from a given PPIN. Aiming that, we have proposed a multi-objective clustering-based protein hub detection framework with FuSim-II working as the underlying proximity measure. The PPINs of H. Sapiens and M. Musculus organisms are chosen for experimental purposes. Unlike most of the existing hub-detection methods, the proposed technique does not require to follow any protein degree cut-off or threshold to define hubs. A thorough assessment of efficiency between proposed and existing eight protein similarity measures along with eight single/multi-objective clustering methods has been carried out. Internal cluster validity indices like Silhouette and Davies Bouldin (DB) are deployed to accomplish analytical study. Also, a comparative performance analysis between proposed and five existing hub-proteins detection algorithms is conducted through the enrichment of essentiality study. The reported results show the improved performance of FuSim-II over existing protein similarity measures in terms of identifying functionally related proteins as well as relevant hub-proteins. Supplementary material is available at 
+
+
+
+Identifying Dominant Amino Acid Pairs of Known Protein-Protein Interactions via K-Means Clustering
+
+Abstract:
+Biological functions in all living cells are performed by protein-protein interactions since they form cells and control function mechanisms. Thus, identifying pairs of protein-protein interactions would be very useful, but it is not an easy task. But, doing a wet lab consumes huge amount of resources whereas using computational methods is highly challenging since they may introduce high false positives. Since a protein is a sequence of amino acids, a protein interaction would be influenced by some interactions of amino acids, and the identification of outstanding interacting pairs would give insightful meaning into how a pair of proteins interacts. This paper proposes a novel method to analyze a set of well-known protein-protein interactions for identifying a set of strong amino acid pairs that may influence the interaction. We calculate amino acid correlation values via Pearson's correlation, and use K-means clustering to group a set of outstanding amino acid pairs based on correlation values. The experimental results for 10 sets of protein interaction networks can identify a number of strong amino acid pairs among them.
+
+
+Protein Complexes Detection Based on Semi-Supervised Network Embedding Model
+
+Abstract:
+A protein complex is a group of associated polypeptide chains which plays essential roles in the biological process. Given a graph representing protein-protein interactions (PPI) network, it is critical but non-trivial to detect protein complexes, the subsets of proteins that are tightly coupled, from it. Network embedding is a technique to learn low-dimensional representations of vertices in networks. It has been proved quite useful for community detection in social networks in recent years. However, unlike social networks, PPI network does not contain rich metadata, so that existing network embedding methods cannot fully capture the network structure of PPI to improve the effect of protein complexes detection significantly. We propose a semi-supervised network embedding model by adopting graph convolutional networks to detect densely connected subgraphs effectively. We compare the performance of our model with state-of-the-art approaches on three popular PPI networks with various data sizes and densities. The experimental results show that our approach significantly outperforms other approaches on all three PPI networks.
+
+
+Combining homolog and motif similarity data with Gene Ontology relationships for protein function prediction
+
+
+Abstract:
+Uncharacterized proteins pose a challenge not just to functional genomics, but also to biology in general. The knowledge of biochemical functions of such proteins is very critical for designing efficient therapeutic techniques. The bottleneck in hypothetical proteins annotation is the difficulty in collecting and aggregating enough biological information about the protein itself. In this paper, we propose and evaluate a protein annotation technique that aggregates different biological information conserved across many hypothetical proteins. To enhance the performance and to increase the prediction accuracy, we incorporate term specific relationships based on Gene Ontology (GO). Our method combines PPI (Protein Protein Interactions) data, protein motifs information, protein sequence similarity and protein homology data, with a context similarity measure based on Gene Ontology, to accurately infer functional information for unannotated proteins. We apply our method on Saccharomyces Cerevisiae species proteins. The aggregation of different sources of evidence with GO relationships increases the precision and accuracy of prediction compared to other methods reported in literature. We predicted with a precision and accuracy of 100% for more than half proteins of the input set and with an overall 81.35% precision and 80.04% accuracy.
+
+
+Understanding centrality-lethality rule in yeast Protein-Protein Interaction network by topological property
+
+Abstract:
+One of the most important problems in biology is to discover the relationship between topological properties and functional features of proteins in Protein-Protein Interaction (PPI) network. The centrality-lethality rule reveals that hub proteins tend to be more essential than non-hub proteins. Why hub proteins tend to be more essential? Here, we classified hub proteins into two types: essential hub and nonessential hub. We found that essential hubs are more important to the survival of the cell and they can be called intra-modular hubs while nonessential hubs tend to be inter-modular hubs.
+
+
+Essential proteins identification based on weak consensus model and neighborhood aggregation centrality
+
+Abstract:
+Essential proteins play an essential role in cell survival and replication. Currently, more and more computational methods are developed to identify essential proteins, which overcome the time-consuming, costly and inefficient shortcomings with biological experimental methods. In order to improve the recognition rate, some new methods by fusing multiple features are developed, but they seldom consider the connection among features. After analyzing a large number of methods based on multi-feature fusion, a weak consensus model to fuse features is proposed in this paper. Then, this paper uses the weak consensus model to fuse protein-protein interaction network, gene expression data, and orthologous data, thus proposing a new method, WOL. Then experiments are performed on one S.cerevisiae dataset. The results show that compared with WDC, PeC, ION, JDC, NCCO and E_POC, WOL has a higher recognition rate.
+
+
+Detecting Essential Proteins Based on Network Topology, Gene Expression Data, and Gene Ontology Information
+
+Abstract:
+The identification of essential proteins in protein-protein interaction (PPI) networks is of great significance for understanding cellular processes. With the increasing availability of large-scale PPI data, numerous centrality measures based on network topology have been proposed to detect essential proteins from PPI networks. However, most of the current approaches focus mainly on the topological structure of PPI networks, and largely ignore the gene ontology annotation information. In this paper, we propose a novel centrality measure, called TEO, for identifying essential proteins by combining network topology, gene expression profiles, and GO information. To evaluate the performance of the TEO method, we compare it with five other methods (degree, betweenness, NC, Pec, and CowEWC) in detecting essential proteins from two different yeast PPI datasets. The simulation results show that adding GO information can effectively improve the predicted precision and that our method outperforms the others in predicting essential proteins.
+
+
+Seq-BEL: Sequence-Based Ensemble Learning for Predicting Virus-Human Protein-Protein Interaction
+
+Abstract:
+Infectious diseases are currently the most important and widespread health problem, and identifying viral infection mechanisms is critical for controlling diseases caused by highly infectious viruses. Because of the lack of non-interactive protein pairs and serious imbalance between positive and negative sample ratios, the supervised learning algorithm is not suitable for prediction. At the same time, due to the lack of information on viral proteins and significant dissimilarity in sequence, some ensemble learning models have poor generalization ability. In this paper, we propose a Sequence-Based Ensemble Learning (Seq-BEL) method to predict the potential virus-human PPIs. Specifically, based on the amino acid sequence of proteins and the currently known virus-human PPI network, Seq-BEL calculates various features and similarities of human proteins and viral proteins, and then combines these similarities and features to score the potential of virus-human PPIs. The computational results show that Seq-BEL achieves success in predicting potential virus-human PPIs and outperforms other state-of-the-art methods. More importantly, Seq-BEL also has good predictive performance for new human proteins and new viral proteins. In addition, the model has the advantages of strong robustness and good generalization ability, and can be used as an effective tool for virus-human PPI prediction.
+
+Protein-Protein Interaction Networks Alignment using Mathematical Model Approximation
+
+Abstract:
+The optimal network alignment problem is an NP-hard problem. In this paper, in order to reduce the runtime of solving this problem, an approximated mathematical model is proposed. To be more precise, the similarity matrix of the two networks is used to reduce the number of model's variables. For this purpose, in the proposed approximation model, instead of checking the possibility of alignment of each protein in the first network with every protein in the second one, we only check the alignment of each protein in the first network to the few most similar ones in the second network. At last, in order to solve the proposed approximation model, the Active Set algorithm is used. This new method has been tested on real protein-protein interaction (PPI) networks of different real and synthetic species. Experimental results indicated improvements in the alignment precision of different networks especially large ones in comparison with NETwork ALigner (NETAL) algorithm and also tremendous reduction of running time in comparison with exact model. In addition, the proposed method could achieve desirable precision on synthetic protein-protein networks.
+
+
+Prediction of protein-protein interactions from amino acid sequences using extreme learning machine combined with auto covariance descriptor
+
+Abstract:
+Protein-protein interactions (PPIs) are crucial for almost all cellular processes, including metabolic cycles, DNA transcription and replication, and signaling cascades. Unfortunately, the experimental methods for identifying PPIs are both time-consuming and expensive. Therefore, it is important to develop computational approaches for predicting PPIs. In this paper, a sequence-based method was developed for identifying new protein-protein interactions (PPIs) by means of Extreme Learning Machine (ELM) combined with a novel representation using auto covariance (AC). The AC descriptors account for the interactions between residues a certain distance apart in the protein sequence, thus this method adequately takes the neighboring effect into account and enables us to extract more PPI information from the protein sequences. ELM is a kind of accurate and fast-learning innovative classification method based on the random generation of the input-to-hidden-units weights followed by the resolution of the linear equations to obtain the hidden-tooutput weights. When performed on the PPI data of Saccharomyces cerevisiae, the proposed method achieved 90.42% prediction accuracy with 90.12% sensitivity at the precision of 90.67%. Extensive experiments are performed to compare our method with state-of-the-art techniques Support Vector Machine (SVM). Achieved results show that the proposed approach is very promising for predicting PPI, and would make a helpful supplement to experimental approaches.
+
+
+DeepSG2PPI: A Protein-Protein Interaction Prediction Method Based on Deep Learning
+
+Abstract:
+Protein-protein interaction (PPI) plays an important role in almost all life activities. Many protein interaction sites have been confirmed by biological experiments, but these PPI site identification methods are time-consuming and expensive. In this study, a deep learning-based PPI prediction method, named DeepSG2PPI, is developed. First, the protein sequence information is retrieved and the local context information of each amino acid residue is calculated. A two-dimensional convolutional neural network (2D-CNN) model is employed to extract features from a two-channel coding structure, in which an attention mechanism is embedded to assign higher weights to key features. Second, the global statistical information of each amino acid residue and the relationship graph between the protein and GO (Gene Ontology) function annotation are built, and the graph embedding vector is constructed to represent the biological features of the protein. Finally, a 2D-CNN model and two 1D-CNN models are combined for PPI prediction. The comparison analysis with existing algorithms shows that the DeepSG2PPI method has better performance. It provides more accurate and effective PPI site prediction, which will be helpful in reducing the cost and failure rate of biological experiments.
+
+
+
+SeqTMPPI: Sequence-Based Transmembrane Protein Interaction Prediction
+
+Abstract:
+Transmembrane proteins (TMPs) play important roles in diverse cellular processes, they are the most common drug targets. The interaction between TMPs and nontransmembrane proteins (nonTMPs) is an important part to form the pathway crossing biomembranes, which is directly related to TMPs associated signal transduction, substance transport, and drug metabolism. However, it is difficult for biologists to identify interactions between TMPs and nonTMPs by wet-lab experiments since TMPs are embedded in the phospholipid bilayer while most nonTMPs are soluble proteins. Predicting protein-protein interactions (PPIs) has always been a hot topic in bioinformatics. However, TMP related PPIs occupy a small proportion of those researches, and those methods designed for soluble protein PPI may have limitations to predict the interaction of TMPs and non-TMPs due to the difference between the aqueous and lipid senvironments. There still lack of deep-learning-based predictors using primary sequence information on TMP-nonTMP interactions. In this work, we constructed a benchmark dataset for TMP-nonTMP interactions, adopted the one-hot vector to encode protein sequence pairs and built a Convolutional Neural Network (CNN) based model, SeqTMPPI, predicting the TMP-nonTMP interactions. The experimental results indicated that our method achieved a good performance on an independent testing where the Matthews Correlation Coefficient (MCC) achieved at 0.7066. The predicted interactions were further analyzed in the scope of distribution of the protein family and species. Materials related are available in https://github.com/JulseJiang/SeqTMPPI.
+
+
+SVM-based prediction of protein-protein interactions of Glucosinolate biosynthesis
+
+Abstract:
+Protein-protein interactions (PPIs) are of biological interest because they orchestrate a number of cellular processes such as metabolic pathways and immunological recognition. This paper aims at exploring more PPIs of Glucosinolates biosynthetic pathways and removing PPIs falsely predicted. A support vector machine (SVM) predictor with the radial basis kernel function (RBF kernel) is trained based on the domain and domain-domain interaction (DDI) information of the amino acid sequences. In this paper, a symmetrical pair of feature vectors is used to represent the symmetrical relationship between two proteins, and 5-fold cross-validation is used to search the best SVM parameters. Then the best SVM parameters are used to train the SVM-based PPIs predictor. The proteins originate from gene AT4G14800 and ATSGS4810 (ID of Arabidopsis Genome Initiative (AGI)), ATSGOS730 and AT4G18040, ATlG04S10 and ATSGOS260 are affirmed interactive by this SVM-based PPIs predictor.
+
+
+
+Identifying Spurious Interactions in the Protein-Protein Interaction Networks Using Local Similarity Preserving Embedding
+
+Abstract:
+In recent years, a remarkable amount of protein-protein interaction (PPI) data are being available owing to the advance made in experimental high-throughput technologies. However, the experimentally detected PPI data usually contain a large amount of spurious links, which could contaminate the analysis of the biological significance of protein links and lead to incorrect biological discoveries, thereby posing new challenges to both computational and biological scientists. In this paper, we develop a new embedding algorithm called local similarity preserving embedding (LSPE) to rank the interaction possibility of protein links. By going beyond limitations of current geometric embedding methods for network denoising and emphasizing the local information of PPI networks, LSPE can avoid the unstableness of previous methods. We demonstrate experimental results on benchmark PPI networks and show that LSPE was the overall leader, outperforming the state-of-the-art methods in topological false links elimination problems.s
+
+Nanoparticles toxicity: an overview of its mechanism and plausible mitigation strategies
+Abstract
+Over the last decade, nanoparticles have found great interest among scientists and researchers working in various fields within the realm of biomedicine including drug delivery, gene delivery, diagnostics, targeted therapy and biomarker mapping. While their physical and chemical properties are impressive, there is growing concern about the toxicological potential of nanoparticles and possible adverse health effects as enhanced exposure of biological systems to nanoparticles may result in toxic effects leading to serious contraindications. Toxicity associated with nanoparticles (nanotoxicity) may include the undesired response of several physiological mechanisms including the distressing of cells by external and internal interaction with nanoparticles. However, comprehensive knowledge of nanotoxicity mechanisms and mitigation strategies may be useful to overcome the hazardous situation while treating diseases with therapeutic nanoparticles. With the same objectives, this review discusses various mechanisms of nanotoxicity and provides an overview of the current state of knowledge on the impact of nanotoxicity on biological control systems and organs including liver, brain, kidneys and lungs. An attempt also been made to present various approaches of scientific research and strategies that could be useful to overcome the effect of nanotoxicity during the development of nanoparticle-based systems including coating, doping, grafting, ligation and addition of antioxidants.
+Enhancing periodontal defences with nanofiber treatment: recent advances and future prospects
+Abstract
+The term periodontal disease is used to define diseases characterised by inflammation and regeneration of the gums, cementum, supporting bone, and periodontal ligament. The conventional treatment involves the combination of scaling, root planning, and surgical approaches which are invasive and can pose certain challenges. Intrapocket administration of nanofibers can be used for overcoming challenges which can help in speeding up the wound repair process and can also be used to promote osteogenesis. To help make drug delivery more effective, nanofibers are an interesting solution. Nanofibers are nanosized 3D structures that can fill the pockets and have excellent mucoadhesion which prolongs their retention time on the target site. Moreover, their structure mimics the natural extracellular matrix which enables nanomaterials to sense local biological conditions and start cellular-level reprogramming to produce the necessary therapeutic efficacy. In this review, the significance of intrapocket administration of nanofibers using recent research for the management of periodontitis has been discussed in detail. Furthermore, we have discussed polymers used for the preparation of nanofibers, nanofiber production methods, and the patents associated with these developments. This comprehensive compilation of data serves as a valuable resource, consolidating recent developments in nanofiber applications for periodontitis management into one accessible platform.
+The potential application of complement inhibitors-loaded nanosystem for autoimmune diseases via regulation immune balance
+The complement is an important arm of the innate immune system, once activated, the complement system rapidly generates large quantities of protein fragments that are potent mediators of inflammation. Recent studies have shown that over-activated complement is the main proinflammatory system of autoimmune diseases (ADs). In addition, activated complements interact with autoantibodies, immune cells exacerbate inflammation, further worsening ADs. With the increasing threat of ADs to human health, complement-based immunotherapy has attracted wide attention. Nevertheless, efficient and targeted delivery of complement inhibitors remains a significant challenge owing to their inherent poor targeting, degradability, and low bioavailability. Nanosystems offer innovative solutions to surmount these obstacles and amplify the potency of complement inhibitors. This prime aim to present the current knowledge of complement in ADs, analyse the function of complement in the pathogenesis and treatment of ADs, we underscore the current situation of nanosystems assisting complement inhibitors in the treatment of ADs. Considering technological, physiological, and clinical validation challenges, we critically appraise the challenges for successfully translating the findings of preclinical studies of these nanosystem assisted-complement inhibitors into the clinic, and future perspectives were also summarised. (The graphical abstract is by BioRender.)
+Comprehensive molecular and clinical insights into non-small cell lung cancer transformation to small cell lung cancer with an illustrative case report
+Histologic transformation to small cell lung cancer (tSCLC) is a rare but increasingly recognised mechanism of acquired resistance to tyrosine kinase inhibitors (TKI) in patients with epidermal growth factor receptor (EGFR)-positive non-small cell lung cancer (NSCLC). Beyond its acknowledged role in TKI resistance, histologic transformation to SCLC might be an important, yet under-recognised, mechanism of resistance in NSCLC treated with immunotherapy. Our review identified 32 studies that investigated tSCLC development in patients with EGFR-mutated NSCLC treated with TKI therapy and 16 case reports of patients treated with immunotherapy. It revealed the rarity of tSCLC, with a predominance of EGFR exon 19 mutations and limited therapeutic options and outcomes. Across all analysed studies in EGFR-mutated NSCLC treated with TKI therapy, the median time to tSCLC development was ∼17 months, with a median overall survival of 10 months. Histologic transformation of EGFR-mutated NSCLC to SCLC is a rare, but challenging clinical problem with a poor prognosis. A small number of documented cases of tSCLC after immunotherapy highlight the need for rebiopsies at progression to diagnose this potential resistance mechanism. Further research is needed to better understand the mechanisms underlying this phenomenon and to develop more effective treatment strategies for patients with tSCLC.
+Aptamer as a targeted approach towards treatment of breast cancer
+Aptamers, a novel type of targeted ligand used in drug delivery, have quickly gained popularity due to their high target specificity and affinity. Different aptamer-mediated drug delivery systems, such as aptamer-drug conjugate (ApDC), aptamer-siRNA, and aptamer-functionalised nanoparticle systems, are currently being developed for the successful treatment of cancer based on the excellent properties of aptamers. These systems can decrease potential toxicity and enhance therapeutic efficacy by targeting the drug moiety. In this review, we provide an overview of recent developments in aptamer-mediated delivery systems for cancer therapy, specifically for breast cancer, and talk about the potential applications and current issues of novel aptamer-based techniques. This study in aptamer technology for breast cancer therapy highlights key aptamers targeting well-established biomarkers such as HER2, oestrogen receptor, and progesterone receptor. Additionally, we explore the potential of aptamers in overcoming various challenges such as drug resistance and improving the delivery of therapeutic agents. This review aims to provide a deeper understanding of the present aptamer-based targeted delivery applications through in-depth analysis to increase efficacy and create new therapeutic approaches that may ultimately lead to better treatment outcomes for cancer patients.
+The in vitro intestinal cell model: different co-cultured cells create different applications
+As a vitro absorption model, the Caco-2 cells originate from a human colon adenocarcinomas and can differentiate into a cell layer with enterocyte-like features. The Caco-2 cell model is popularly applied to explore drug transport mechanisms, to evaluate the permeability of drug and to predict the absorption of drugs or bioactive substances in the gut. However, there are limitations to the application of Caco-2 cell model due to lack of a mucus layer, the long culture period and the inability to accurately simulate the intestinal environment. The most frequent way to expand the Caco-2 cell model and address its limitations is by co-culturing it with other cells or substances. This article reviews the culture methods and applications of 3D and 2D co-culture cell models established around Caco-2 cells. It also concludes with a summary of model strengths and weaknesses.
+Red blood membrane camouflaging Bismuth nanoflowers designed for radio-photothermal therapy in lung cancer
+Radio-photothermal therapy is an effective modality for cancer treatment. To overcome the radio-resistance in the hypoxic microenvironment and improve the sensitivity of radiotherapy, metal nanoparticles, and radio-photothermal therapy are widely used in the research of improving the curative effect and reducing the side effects of radiotherapy. Here, we developed red blood membrane camouflaging bismuth nanoflowers (RBCM-BNF) with outstanding physiological stability and biodegradability for lung tumours. In vitro data proved that the RBCM-BNF had the greatest cancer cell-killing ability combined with X-ray irradiation and photo-thermal treatment. Meanwhile, in vivo studies revealed that RBCM-BNF can alleviate the hypoxic microenvironment and promote tumour cell apoptosis by inhibiting HIF-1α expression and increasing caspase-3 expression. Therefore, RBCM-BNF had a good radio-sensitising effect and might be a promising biomimetic nanoplatform as a therapeutic target for cancer.
+Preparation and anti-inflammatory effect of mercury sulphide nanoparticle-loaded hydrogels
+We successfully prepared mercury sulphide nanoparticle hydrogels by physical encapsulation method. The successfully prepared mercuric sulphide nanoparticle hydrogel was a zinc folate hydrogel, which showed an obvious porous structure with interconnected and uniformly distributed pores and a pore size range of about 20 μm. The maximum drug loading of the hydrogels was 3%, and the in vitro cumulative release degree was in accordance with the first-order kinetic equation Mt = 149.529 (1 − e−0.026t). The particles in mercuric sulphide nanoparticle hydrogels significantly down-regulated the expression of the cell surface co-stimulatory molecule CD86 (p < .0001). Meanwhile, the inflammatory response was regulated through the NF-κB pathway in LPS-induced inflammatory cells. Later, it was observed that mercuric sulphide nanoparticle hydrogels could significantly counteract the inflammatory and immune models through a mouse ear swelling model, a rat foot-plantar swelling model and a rheumatoid arthritis model. This design targets the immunomodulatory, and anti-inflammatory effects through nanocomposite hydrogel technology. It reduces the drawbacks of low mercury utilisation and susceptibility to accumulation of toxicity. It aims to provide an experimental basis for the development of mercuric sulphide and the treatment of inflammatory and immune-related diseases.
+Trimethyl chitosan–cysteine-based nanoparticles as an effective delivery system for portulacerebroside A in the management of hepatocellular carcinoma cells in vitro and in vivo
+portulacerebroside A (PCA), a cerebroside compound extracted from Portulaca oleracea L., has been shown to suppress hepatocellular carcinoma (HCC) cells. This study aims to investigate the effectiveness of trimethyl chitosan–cysteine (TMC-Cys) nanocarrier in delivering PCA for HCC management and to elucidate the molecular mechanisms behind PCA’s function. TMC-Cys nanocarriers notably augmented PCA’s function, diminishing the proliferation, migration, and invasiveness of HCC cells in vitro, reducing hepatocellular tumorigenesis in immunocompetent mice, and impeding metastasis of xenograft tumours in nude mice. Comprehensive bioinformatics analyses, incorporating Super-PRED systems alongside pathway enrichment analysis, pinpointed toll-like receptor 4 (TLR4) and epidermal growth factor receptor (EGFR) as two promising targets of PCA, enriched in immune checkpoint pathway. PCA/nanocarrier (PCA) reduced levels of TLR4 and EGFR and their downstream proteins, including programmed cell death ligand 1, thereby increasing populations and activity of T cells co-cultured with HCC cells in vitro or in primary HCC tumours in mice. However, these effects were counteracted by additional artificial activation of TLR4 and EGFR. In conclusion, this study provides novel evidence of PCA’s function in immunomodulation in addition to its direct tumour suppressive effect. TMC-Cys nanocarriers significantly enhance PCA efficacy, indicating promising application as a drug delivery system.
+
+
+Drug–drug–gene interactions and adverse drug reactions
+Mustafa Adnan Malki & Ewan Robert Pearson 
+The Pharmacogenomics Journal volume 20, pages355–366 (2020)Cite this article
+
+21k Accesses
+
+88 Citations
+
+19 Altmetric
+
+Metricsdetails
+
+Abstract
+The economic and health burden caused by adverse drug reactions has increased dramatically in the last few years. This is likely to be mediated by increasing polypharmacy, which increases the likelihood for drug–drug interactions. Tools utilized by healthcare practitioners to flag potential adverse drug reactions secondary to drug–drug interactions ignore individual genetic variation, which has the potential to markedly alter the severity of these interactions. To date there have been limited published studies on impact of genetic variation on drug–drug interactions. In this review, we establish a detailed classification for pharmacokinetic drug–drug–gene interactions, and give examples from the literature that support this approach. The increasing availability of real-world drug outcome data linked to genetic bioresources is likely to enable the discovery of previously unrecognized, clinically important drug–drug–gene interactions.
+
+
+
+Pharmacogenomics: The Right Drug to the Right Person
+Aneesh T P,a,b Sonal Sekhar M,a Asha Jose,a Lekshmi Chandran,a and Subin Mary Zachariaha
+Author information Article notes Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+Pharmacogenomics is the branch of pharmacology which deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity. It aims to develop rational means to optimize drug therapy, with respect to the patients genotype, to ensure maximum efficacy with minimal adverse effects. Such approaches promise the advent of personalized medicine, in which drugs and drug combinations are optimized for each individual's unique genetic makeup. Pharmacogenomics is the whole genome application of pharmacogenetics, which examines the single gene interactions with drugs.
+
+
+
+Drug–Gene Interactions: Inherent Variability In Drug Maintenance Dose Requirements
+Paul Westervelt, Kihoon Cho, David R. Bright, PharmD, and David F. Kisor, PharmD
+Author information Copyright and License information PMC Disclaimer
+Go to:
+Abstract
+The influence of genetics on pharmacokinetics can introduce variability among individual patients that may cause treatment failure, toxicity, or both. Such variability, specifically in clearance rates, can influence drug maintenance dosing regimens.
+
+
+
+
+
+
+
+
+
+Integrating gene expression and clinical data to identify drug repurposing candidates for hyperlipidemia and hypertension
+Patrick Wu, QiPing Feng, Vern Eric Kerchberger, Scott D. Nelson, Qingxia Chen, Bingshan Li, Todd L. Edwards, Nancy J. Cox, Elizabeth J. Phillips, C. Michael Stein, Dan M. Roden, Joshua C. Denny & Wei-Qi Wei 
+Nature Communications volume 13, Article number: 46 (2022) Cite this article
+
+12k Accesses
+
+20 Citations
+
+22 Altmetric
+
+Metricsdetails
+
+Abstract
+Discovering novel uses for existing drugs, through drug repurposing, can reduce the time, costs, and risk of failure associated with new drug development. However, prioritizing drug repurposing candidates for downstream studies remains challenging. Here, we present a high-throughput approach to identify and validate drug repurposing candidates. This approach integrates human gene expression, drug perturbation, and clinical data from publicly available resources. We apply this approach to find drug repurposing candidates for two diseases, hyperlipidemia and hypertension. We screen >21,000 compounds and replicate ten approved drugs. We also identify 25 (seven for hyperlipidemia, eighteen for hypertension) drugs approved for other indications with therapeutic effects on clinically relevant biomarkers. For five of these drugs, the therapeutic effects are replicated in the All of Us Research Program database. We anticipate our approach will enable researchers to integrate multiple publicly available datasets to identify high priority drug repurposing opportunities for human diseases.
+
+
+
+
+
+
+Drug-drug-gene interactions and adverse drug reactions
+Mustafa Adnan Malki, Ewan Robert Pearson (Lead / Corresponding author)
+
+Population Health and Genomics
+Research output: Contribution to journal › Review article › peer-review
+
+96
+Citations
+(Scopus)
+83
+Downloads
+(Pure)
+Article has an altmetric score of 19
+  
+
+
+Abstract
+The economic and health burden caused by adverse drug reactions has increased dramatically in the last few years. This is likely to be mediated by increasing polypharmacy, which increases the likelihood for drug-drug interactions. Tools utilized by healthcare practitioners to flag potential adverse drug reactions secondary to drug-drug interactions ignore individual genetic variation, which has the potential to markedly alter the severity of these interactions. To date there have been limited published studies on impact of genetic variation on drug-drug interactions. In this review, we establish a detailed classification for pharmacokinetic drug-drug-gene interactions, and give examples from the literature that support this approach. The increasing availability of real-world drug outcome data linked to genetic bioresources is likely to enable the discovery of previously unrecognized, clinically important drug-drug-gene interactions.
+
+
+
+
+
+
+
+
+
+
+
+
+Pharmacogenomic Biomarkers for Improved Drug Therapy—Recent Progress and Future Developments
+Review Article
+Theme: Precision Medicine: Implications for the Pharmaceutical Sciences
+Open access
+Published: 27 November 2017
+Volume 20, article number 4, (2018)
+Cite this article
+
+
+The AAPS Journal
+Aims and scope
+Submit manuscript
+Volker M. Lauschke, Lili Milani & Magnus Ingelman-Sundberg 
+17k Accesses
+
+100 Citations
+
+5 Altmetric
+
+Explore all metrics 
+
+Abstract
+Much of the inter-individual variability in drug efficacy and risk of adverse reactions is due to polymorphisms in genes encoding proteins involved in drug pharmacokinetics and pharmacodynamics or immunological responses. Pharmacogenetic research has identified a multitude of gene-drug response associations, which have resulted in genetically guided treatment and dosing decisions to yield a higher success rate of pharmacological treatment. The rapid technological developments for genetic analyses reveal that the number of genetic variants with importance for drug action is much higher than previously thought and that a true personalized prediction of drug response requires attention to millions of rare mutations. Here, we review the evolutionary background of genetic polymorphisms in drug-metabolizing enzymes, provide some important examples of current use of pharmacogenomic biomarkers, and give an update of germline and somatic genome biomarkers that are in use in drug development and clinical practice. We also discuss the current technology development with emphasis on complex genetic loci, review current initiatives for validation of pharmacogenomic biomarkers, and present scenarios for the future taking rare genetic variants into account for a true personalized genetically guided drug prescription. We conclude that pharmacogenomic information for patient stratification is of value to tailor optimized treatment regimens particularly in oncology. However, the routine use of pharmacogenomic biomarkers in clinical practice in other therapeutic areas is currently sparse and the prospects of its future implementation are being scrutinized by different international consortia
+
+
+
+
+
+
+Tissue-specific genetic features inform prediction of drug side effects in clinical trials
+
+Abstract
+Adverse side effects often account for the failure of drug clinical trials. We evaluated whether a phenome-wide association study (PheWAS) of 1167 phenotypes in >360,000 U.K. Biobank individuals, in combination with gene expression and expression quantitative trait loci (eQTL) in 48 tissues, can inform prediction of drug side effects in clinical trials. We determined that drug target genes with five genetic features—tissue specificity of gene expression, Mendelian associations, phenotype- and tissue-level effects of genome-wide association (GWA) loci driven by eQTL, and genetic constraint—confer a 2.6-fold greater risk of side effects, compared to genes without such features. The presence of eQTL in multiple tissues resulted in more unique phenotypes driven by GWA loci, suggesting that drugs delivered to multiple tissues can induce several side effects. We demonstrate the utility of PheWAS and eQTL data from multiple tissues for informing drug side effect prediction and highlight the need for tissue-specific drug delivery.
+
+
+
+
+
+Evaluating drug targets through human loss-of-function genetic variation
+
+Abstract
+Naturally occurring human genetic variants that are predicted to inactivate protein-coding genes provide an in vivo model of human gene inactivation that complements knockout studies in cells and model organisms. Here we report three key findings regarding the assessment of candidate drug targets using human loss-of-function variants. First, even essential genes, in which loss-of-function variants are not tolerated, can be highly successful as targets of inhibitory drugs. Second, in most genes, loss-of-function variants are sufficiently rare that genotype-based ascertainment of homozygous or compound heterozygous ‘knockout’ humans will await sample sizes that are approximately 1,000 times those presently available, unless recruitment focuses on consanguineous individuals. Third, automated variant annotation and filtering are powerful, but manual curation remains crucial for removing artefacts, and is a prerequisite for recall-by-genotype efforts. Our results provide a roadmap for human knockout studies and should guide the interpretation of loss-of-function variants in drug development.
+
+
+
+
+
+DGIdb 3.0: a redesign and expansion of the drug–gene interaction database 
+   
+
+
+
+Abstract
+The drug–gene interaction database (DGIdb, www.dgidb.org) consolidates, organizes and presents drug–gene interactions and gene druggability information from papers, databases and web resources. DGIdb normalizes content from 30 disparate sources and allows for user-friendly advanced browsing, searching and filtering for ease of access through an intuitive web user interface, application programming interface (API) and public cloud-based server image. DGIdb v3.0 represents a major update of the database. Nine of the previously included 24 sources were updated. Six new resources were added, bringing the total number of sources to 30. These updates and additions of sources have cumulatively resulted in 56 309 interaction claims. This has also substantially expanded the comprehensive catalogue of druggable genes and anti-neoplastic drug–gene interactions included in the DGIdb. Along with these content updates, v3.0 has received a major overhaul of its codebase, including an updated user interface, preset interaction search filters, consolidation of interaction information into interaction groups, greatly improved search response times and upgrading the underlying web application framework. In addition, the expanded API features new endpoints which allow users to extract more detailed information about queried drugs, genes and drug–gene interactions, including listings of PubMed IDs, interaction type and other interaction metadata.
+
+
+
+
+
+
+DGIdb 3.0: a redesign and expansion of the drug–gene interaction database 
+
+Abstract
+The drug–gene interaction database (DGIdb, www.dgidb.org) consolidates, organizes and presents drug–gene interactions and gene druggability information from papers, databases and web resources. DGIdb normalizes content from 30 disparate sources and allows for user-friendly advanced browsing, searching and filtering for ease of access through an intuitive web user interface, application programming interface (API) and public cloud-based server image. DGIdb v3.0 represents a major update of the database. Nine of the previously included 24 sources were updated. Six new resources were added, bringing the total number of sources to 30. These updates and additions of sources have cumulatively resulted in 56 309 interaction claims. This has also substantially expanded the comprehensive catalogue of druggable genes and anti-neoplastic drug–gene interactions included in the DGIdb. Along with these content updates, v3.0 has received a major overhaul of its codebase, including an updated user interface, preset interaction search filters, consolidation of interaction information into interaction groups, greatly improved search response times and upgrading the underlying web application framework. In addition, the expanded API features new endpoints which allow users to extract more detailed information about queried drugs, genes and drug–gene interactions, including listings of PubMed IDs, interaction type and other interaction metadata.
+
+
+
+
+
+Pharmacogenomics: Prescribing based on genetic variation
+
+Abstract
+Clinical decision support systems relating to prescribing are available on general practice information technology systems, with warnings relating to drug–drug interactions and allergies. These tools can help us anticipate and avoid known side effects of drugs, but only after we have selected the drug. Combining these with renal function, liver function, other biophysical markers and pharmacogenomics information, can improve medicines optimisation and reduce adverse effects. Managing all these variables at the same time as conforming to disease guidelines is a challenge. The challenge is even greater when managing multi-morbidity and the associated polypharmacy.
+
+
+
+
+
+Abstract
+Lymphoblastoid cell lines (LCLs), originally collected as renewable sources of DNA, are now being used as a model system to study genotype–phenotype relationships in human cells, including searches for QTLs influencing levels of individual mRNAs and responses to drugs and radiation. In the course of attempting to map genes for drug response using 269 LCLs from the International HapMap Project, we evaluated the extent to which biological noise and non-genetic confounders contribute to trait variability in LCLs. While drug responses could be technically well measured on a given day, we observed significant day-to-day variability and substantial correlation to non-genetic confounders, such as baseline growth rates and metabolic state in culture. After correcting for these confounders, we were unable to detect any QTLs with genome-wide significance for drug response. A much higher proportion of variance in mRNA levels may be attributed to non-genetic factors (intra-individual variance—i.e., biological noise, levels of the EBV virus used to transform the cells, ATP levels) than to detectable eQTLs. Finally, in an attempt to improve power, we focused analysis on those genes that had both detectable eQTLs and correlation to drug response; we were unable to detect evidence that eQTL SNPs are convincingly associated with drug response in the model. While LCLs are a promising model for pharmacogenetic experiments, biological noise and in vitro artifacts may reduce power and have the potential to create spurious association due to confounding.
+
+
+
+
+Abstract
+This review will provide an overview of the principles of pharmacogenomics from basic discovery to implementation, encompassing application of tools of contemporary genome science to the field (including areas of apparent divergence from disease-based genomics), a summary of lessons learned from the extensively studied drugs clopidogrel and warfarin, the current status of implementing pharmacogenetic testing in practice, the role of genomics and related tools in the drug development process, and a summary of future opportunities and challenges
+
+
+
+
+Revisiting Antipsychotic Drug Actions Through Gene Networks Associated With Schizophrenia
+
+Abstract
+Objective:
+Antipsychotic drugs were incidentally discovered in the 1950s, but their mechanisms of action are still not understood. Better understanding of schizophrenia pathogenesis could shed light on actions of current drugs and reveal novel “druggable” pathways for unmet therapeutic needs. Recent genome-wide association studies offer unprecedented opportunities to characterize disease gene networks and uncover drug-disease relationships. Polygenic overlap between schizophrenia risk genes and antipsychotic drug targets has been demonstrated, but specific genes and pathways constituting this overlap are undetermined. Risk genes of polygenic disorders do not operate in isolation but in combination with other genes through protein-protein interactions among gene product.
+
+Method:
+The protein interactome was used to map antipsychotic drug targets (N=88) to networks of schizophrenia risk genes (N=328).
+
+Results:
+Schizophrenia risk genes were significantly localized in the interactome, forming a distinct disease module. Core genes of the module were enriched for genes involved in developmental biology and cognition, which may have a central role in schizophrenia etiology. Antipsychotic drug targets overlapped with the core disease module and comprised multiple pathways beyond dopamine. Some important risk genes like CHRN, PCDH, and HCN families were not connected to existing antipsychotics but may be suitable targets for novel drugs or drug repurposing opportunities to treat other aspects of schizophrenia, such as cognitive or negative symptoms.
+
+Conclusions:
+The network medicine approach provides a platform to collate information of disease genetics and drug-gene interactions to shift focus from development of antipsychotics to multitarget antischizophrenia drugs. This approach is transferable to other diseases.
+
+Antipsychotics were incidentally discovered more than 60 years ago, but their mechanisms of action have still not been fully revealed. Antipsychotics are the main medication available to patients with schizophrenia but have little effect on negative and cognitive symptoms of the disease. Current antipsychotics are also limited by serious side effects (1, 2) that reduce treatment compliance (3), and about one-third of patients with psychosis are classified as treatment resistant (4). Thus, there is great need for improved medications for these patients, but drug development has been hampered by poor knowledge of disease etiology and underlying genetics. There is a growing interest in harnessing knowledge of risk genes for developing better treatments for common diseases (5–7). For example, Nelson et al. (8) found that drugs with genetically supported mechanisms of action succeeded in moving from phase 1 trials to gaining approval twice as often as drugs without genetic support. Schizophrenia is highly heritable (9), and a well-powered genome-wide association study (GWAS) identified as many as 108 independent loci related to the disease, containing more than 300 genes (10). Improved knowledge of these risk genes may be used to inform drug development by revealing potential mechanisms of action of current drugs and by identifying new drug targets. Antipsychotics bind to numerous proteins (11), of which dopamine and serotonin receptors are the only ones with known biological links to schizophrenia. However, a recent study found genetic overlap between schizophrenia risk genes and antipsychotic target genes, which suggests the pharmacological mechanisms may be polygenic and may also involve pathways that are not yet identified (12).
+
+Most genotype-phenotype relationships arise from complexity of cellular interactions (13). Risk genes of polygenic disorders do not operate in isolation but in combination and interaction with other risk genes. The effect of a perturbation in one gene can propagate to affect other nearby proteins in the protein-protein interaction network, referred to here as the interactome. Therefore, protein products of genes that are associated with a particular disease tend to interact with one another and converge on related biological and functional networks (the so-called disease module) rather than being randomly spread throughout the interactome (14, 15). Thus, network biology (16) or network medicine (15) provides an important framework where knowledge of protein-protein interactions can be used to gain more comprehensive insight into the molecular mechanisms of complex diseases (14, 17).
+
+The network approach also provides a unique opportunity to study drug effects by integrating the human interactome with knowledge of drug targets (18). The Drug-Gene Interaction Database (DGIdb) (11, 19) contains information on genes whose products are known to interact with drugs in humans (drug target genes), as well as genes that belong to the “druggable” genome (11, 20). Okada et al. (21) examined how targets of rheumatoid arthritis drugs map to the interactome neighborhood of identified risk genes for rheumatoid arthritis, and they found an overlap between drug target genes and risk genes as well as interactome neighbors of risk genes (21). Another study examined how drug target genes overlap with GWAS hits across a variety of diseases, and it found very little direct overlap (22). However, drug target genes showed threefold enrichment among the closest interactome neighbors, and enrichment was also significant among the second neighbors, suggesting that neighboring genes in the interactome should be included when searching for suitable candidates for drug repurposing (22).
+
+Here, adopting a novel network biology approach (14), we study the schizophrenia disease module and its intersection with current antipsychotic drug target genes integrating information from the human interactome (14) with data from the DGIdb. Our objective was to inform development of new medications (20) by improving understanding of disease etiology and the function of current medications, as well as by identifying genes worth further examination as new drug targets or drug repurposing opportunities. We first identified and characterized a schizophrenia disease module in the interactome, and then we examined the interactome link between antipsychotic drug targets and schizophrenia risk genes through protein interactions. We revealed the specific risk genes and pathways that are involved in this link as well as the risk genes that are not linked to current antipsychotics. This information may be useful for identifying targets of future drugs that may also treat symptoms of schizophrenia other than psychosis.
+
+Method
+Interactome Database
+The protein-protein interaction network used in our main analyses is the human interactome created by Menche et al. (14), consisting of 13,460 proteins interconnected by 141,296 high-confident physical interactions with experimental support. For comparison, we also used the STRING database (23) (see the data supplement that accompanies the online edition of this article).
+
+Network Terminology and Illustrations
+In the network terminology used throughout this article, nodes refer to genes or their corresponding gene products (proteins), and edges refer to connections between two genes through identified protein-protein interactions between their products. The distance (ds) between two nodes in the network is defined as the smallest number of edges, or steps, connecting them (i.e., shortest path length). Network figures were created using Cytoscape (24), with nodes illustrated as a shape (octagons for drug target genes, and circles for disease genes and neighbors of disease genes or drug targets) and edges as lines.
+
+Disease Risk Genes
+Schizophrenia risk genes were derived from the largest multicenter GWAS of schizophrenia to date (10) (36,989 cases and 113,075 controls), performed by the Psychiatric Genomics Consortium. In this GWAS, 108 independent loci were identified with a p value threshold of 5×10−8, which contained 326 potential causal protein coding genes (see Supplementary Table 3 in Ripke et al. [10]). In addition, one of the loci spans a large region on chromosome 6 containing the major histocompatibility complex (MHC). Because this locus contains hundreds of genes, all could not be included in the analyses as the majority might not be functionally related to schizophrenia. A recent article showed that the MHC-schizophrenia association is partly driven by the genes C4A and C4B (25). We therefore included these two genes in the analyses to represent the signal from the MHC region, resulting in a total of 328 risk genes included in the analyses.
+
+Network Localization
+To estimate network localization of the schizophrenia risk genes, we first calculated the shortest distance, ds, between each disease gene to the next closest disease gene and the corresponding frequency distribution, P(ds). To estimate if the disease genes were more localized than that expected by chance, 1,000 random sets of genes with the same number of genes as the disease set were generated to yield the distribution Prand(ds) from which test statistics could be calculated for the observed value of ds (see Menche et al. [14] for details). We also calculated the largest connected component of disease genes in the interactome space, containing S disease genes. S was compared with 1,000 random gene sets with the same number of genes to yield the distribution Prand(S). Following Menche et al., we define the schizophrenia disease module based on both ds and S. A statistically significant ds is driven by risk genes with the shortest distance to another risk gene (i.e., interconnected risk genes [d=1]), and genes in the largest connected component, S, are a subset of interconnected risk genes. Thus, we refer to interconnected risk genes as core genes of the disease module, or as the core disease module. We also performed control analyses with calculation of ds that takes node degree into account for the selection of random gene sets (26). Node degree was also incorporated to an alternative network localization method based on network neighborhood overlap (27) (see the online data supplement).
+
+Antipsychotic Drug Targets
+We included 64 drugs listed as antipsychotics in the Anatomical Therapeutic Chemical Classification System of the World Health Organization’s Collaborating Center for Drug Statistics Methodology. To identify drug-gene interactions in the interactome, we used data from the drug-gene interaction database (DGIdb version 2.22, http://dgidb.genome.wustl.edu, downloaded on Oct. 17, 2016), a freely accessible database for identifying known and potential drug-gene interactions (11, 19). We identified 88 genes targeted by at least one of the 64 antipsychotics. Eighty of these were included in the Menche et al. interactome with at least one interactor.
+
+Gene Set Enrichment Analysis
+We used MAGENTA (Meta-Analysis Gene-set Enrichment of variaNT Associations) (28) to test if antipsychotic drug targets, or their first interactome neighbors, were enriched for associations with schizophrenia compared with a large number of randomly selected genes (see the online data supplement for details). We also examined, as control analyses, potential enrichment of antipsychotic drug target genes among GWAS-identified risk genes for three control conditions: depressive symptoms (29), Alzheimer’s disease (30), and type 2 diabetes (31).
+
+Network Graph of Genetic Overlap Between Antipsychotic Targets and Disease Genes
+We calculated the number of interaction steps (edges) between each specific schizophrenia risk gene and its closest antipsychotic drug target in the interactome, with 0, 1, 2, or >2 steps.
+
+Gene Ontology Enrichment
+ToppGene (32) was used to examine enrichment in gene ontology annotations and pathways for the following subsets of risk gene sets related to the schizophrenia disease module: 1) all risk genes, 2) interconnected risk genes, 3) risk genes belonging to the largest connected component of risk genes (see Supplementary Table 1 in the data supplement). We also examined risk gene sets according to their shortest path length (distance) to antipsychotic drug targets in the interactome (0 or 1, 2, or >2 steps to an antipsychotic drug target; see Supplementary Table 2 in the data supplement). ToppGene uses hypergeometric distribution with Bonferroni correction for determining statistical significance. We included the gene ontology annotation categories molecular function and biological process, as well as pathways, with a Bonferroni-corrected p value threshold of 0.05.
+
+
+
+
+
+Genetic predisposition, modifiable lifestyles, and their joint effects on human lifespan: evidence from multiple cohort studies
+
+
+
+Abstract
+Objective To investigate the associations across genetic and lifestyle factors with lifespan.
+
+Design A longitudinal cohort study.
+
+Setting UK Biobank.
+
+Participants 353 742 adults of European ancestry, who were recruited from 2006 to 2010 and were followed up until 2021.
+
+Exposures A polygenic risk score for lifespan with long (<lowest quintile), intermediate (quintiles 2 to 4), and short (>highest quintile) risk categories and a weighted healthy lifestyle score, including no current smoking, moderate alcohol consumption, regular physical activity, healthy body shape, adequate sleep duration, and a healthy diet, categorised into favourable, intermediate, and unfavourable lifestyles.
+
+Main outcome measures Lifespan defined as the date of death or the censor date minus the date of birth.
+
+Results Of the included 353 742 participants of European ancestry with a median follow-up of 12.86 years, 24 239 death cases were identified. Participants were grouped into three genetically determined lifespan categories including long (20.1%), intermediate (60.1%), and short (19.8%), and into three lifestyle score categories including favourable (23.1%), intermediate (55.6%), and unfavourable (21.3%). The hazard ratio (HR) of death for individuals with a genetic predisposition to a short lifespan was 1.21 (95% CI 1.16 to 1.26) compared to those with a genetic predisposition to a long lifespan. The HR of death for individuals in the unfavourable lifestyle category was 1.78 (95% CI 1.71 to 1.85), compared with those in the favourable lifestyle category. Participants with a genetic predisposition to a short lifespan and an unfavourable lifestyle had 2.04 times (95% CI 1.87 to 2.22) higher rates of death compared with those with a genetic predisposition to a long lifespan and a favourable lifestyle. No multiplicative interaction was detected between the polygenic risk score of lifespan and the weighted healthy lifestyle score (p=0.10). The optimal combination of healthy lifestyles, including never smoking, regular physical activity, adequate sleep duration, and a healthy diet, was derived to decrease risk of premature death (death before 75 years).
+
+Conclusion Genetic and lifestyle factors were independently associated with lifespan. Adherence to healthy lifestyles could largely attenuate the genetic risk of a shorter lifespan or premature death. The optimal combination of healthy lifestyles could convey better benefits for a longer lifespan, regardless of genetic background.
+
